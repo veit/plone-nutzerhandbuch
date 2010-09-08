@@ -15,6 +15,7 @@ Inhalt:
    impressum
    inhalte-hinzufuegen/index
    inhalte-verwalten/index
+   portlets-verwalten/index
    benutzer-rollen-und-gruppen/index
    visueller-editor-tinymce/index
    restructured-text/index

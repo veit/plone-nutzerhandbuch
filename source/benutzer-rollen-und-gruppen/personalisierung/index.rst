@@ -10,6 +10,6 @@ Nach Ihrer Anmeldung erhalten Sie personalisierte Aktionen und können Ihr eigen
    benutzeraktionen
    profil
    meine-einstellungen
-   persoenliche-seite/index
+   persoenliche-seite.rst
    passwort-aendern
 
