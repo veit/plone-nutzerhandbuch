@@ -13,9 +13,10 @@ Inhalt:
 
    einleitung
    impressum
+   inhalte-hinzufuegen/index
    inhalte-verwalten/index
    benutzer-rollen-und-gruppen/index
-   visueller-editor-tinymce
+   visueller-editor-tinymce/index
    restructured-text/index
    structured-text/index
    browser/index
