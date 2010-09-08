@@ -13,10 +13,10 @@ Inhalt:
 
    einleitung
    impressum
+   benutzer-rollen-und-gruppen/index
    inhalte-hinzufuegen/index
    inhalte-verwalten/index
    portlets-verwalten/index
-   benutzer-rollen-und-gruppen/index
    visueller-editor-tinymce/index
    restructured-text/index
    structured-text/index
