@@ -7,19 +7,15 @@ Neben Name und Titel kann für Verzeichnisse auch eine Beschreibung angegeben we
 
 Enthält das Verzeichnis eine Datei mit dem Namen ``index_html`` , ``index.html`` , ``index.htm`` oder ``FrontPage`` so wird diese statt der Verzeichnisliste angezeigt.
 
-Die entsprechenden Rechte vorausgesetzt, können Sie im `Ansicht-Menü`_ zwischen verschiedenen Ansichten für einen Ordner wählen.
+Die entsprechenden Rechte vorausgesetzt, können Sie in :doc:`../inhalte-verwalten/ordneransichten` zwischen verschiedenen Ansichten für einen Ordner wählen.
 
 .. _`Ansicht-Menü`: ansicht
 
 Darüberhinaus sind für Ordner noch weitere Aktionen möglich:
 
 Syndikation 
- siehe Syndikation_
-
-.. _Syndikation: syndikation
+ siehe :doc:`../inhalte-verwalten/syndikation`
 
 Lokale Rollen
- siehe `Lokale Rollen`_
-
-.. _`Lokale Rollen`: lokale-rollen
+ siehe :doc:`../inhalte-verwalten/lokale-rollen`
 

@@ -19,13 +19,12 @@ Darüberhinaus gibt es noch einen Verweis *Passwort vergessen?*, das zu einem we
 Selbstregistrierung
 -------------------
 
-Wenn sich auf der Website neue Benutzer auch selbst registrieren dürfen, gibt es auch noch einen Link *Neuer Benutzer?*, der zur `Registrierung`_ führt. 
+Wenn sich auf der Website neue Benutzer auch selbst registrieren dürfen, gibt es auch noch einen Link *Neuer Benutzer?*, der zur :doc:`../registrierung` führt. 
 
 |Registrierung|
 
 .. |Anmeldeportlet| image:: plone4-anmeldeportlet.png/image_preview
 .. |Passwort zusenden| image:: plone4-passwort-zusenden.png/image_preview
-.. _`Registrierung`: registrierung
 .. |Registrierung| image:: plone4-nutzer-registrierungsformular.png/image_preview
 
 

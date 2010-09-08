@@ -2,7 +2,7 @@ Benutzer, Rollen und Gruppen
 ============================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
    registrierung
    personalisierung/index

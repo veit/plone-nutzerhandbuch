@@ -19,8 +19,8 @@ Hinzufügbare Artikeltypen
 Bevorzugte Artikeltypen
  Hiermit bestimmen Sie, welche der in *Hinzufügbare Artikeltypen* ausgewählten Artikeltypen direkt durch das *Hinzufügen*-Menü hinzugefügt werden können. Alle weiteren ausgewählten Artikeltypen können erst durch ein erweitertes Formular hinzugefügt werden.
 
-Folgende Artikeltypen können Sie hinzufügen
--------------------------------------------
+Artikeltypen 
+------------
 
 .. toctree::
    :maxdepth: 1

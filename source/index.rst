@@ -9,7 +9,7 @@ Welcome to Plone-Nutzerhandbuch's documentation!
 Inhalt:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    einleitung
    impressum

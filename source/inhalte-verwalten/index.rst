@@ -6,5 +6,7 @@ Inhalte verwalten
 
    artikel-bearbeiten
    ordneransichten
+   syndikation
+   lokale-rollen
    arbeitsablaeufe/index
 

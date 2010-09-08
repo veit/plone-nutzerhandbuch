@@ -45,8 +45,7 @@ Der Community-Arbeitsablauf hat folgende Stadien:
 
    .. image:: public.png/image_preview
 
-**Anmerkung:** Die Option *Erweitert…* wird in  `Bedienelemente`_ beschrieben.
+**Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
 
 .. |Community-Arbeitsablauf| image:: plone_workflow.gif/image_preview
-.. _`Bedienelemente`: bedienelemente
 

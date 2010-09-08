@@ -6,7 +6,7 @@ Benutzeraktionen, die Sie nach dem Anmelden an der Plone-Site erhalten:
 |Benutzeraktionen|
 
 Name
- Ihr Name. Der Link führt zu `Persönliche Seite`_
+ Ihr Name. Der Link führt zu :doc:`persoenliche-seite`
 Mein Ordner
  Sofern für die Plone-Site persönliche Ordner zugelassen sind, gelangen Sie mit diesem Link dorthin.
 
@@ -21,6 +21,5 @@ Meine Lesezeichen
 Rückgängig
  Sofern aktiviert, können Sie hier Ihre Transaktionen rückgängig machen
 
-.. _`Persönliche Seite`: persoenliche-seite
 .. |Benutzeraktionen| image:: plone4-konfiguriertes-dashboard.png/image_preview
 
