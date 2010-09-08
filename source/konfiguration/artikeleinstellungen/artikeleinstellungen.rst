@@ -1,0 +1,45 @@
+Artikeleinstellungen
+====================
+
+Einstellungen für Arbeitsablauf, Sichtbarkeit und Versionierung für Artikeltypen.
+
+Es lässt sich für jeden Artikeltyp oder die Standardartikeltypen ein bestimmter Arbeitsablauf angeben.
+
+Zu den Standardartikeltypen gehören *Bild, Datei, Kollektion, Link, Nachricht, Ordner,Seite* und *Termin*.. 
+
+Der Standard-Arbeitsablauf ist *Einfacher Arbeitsablauf*. 
+
+Arbeitsabläufe
+--------------
+
+Mögliche Arbeitsabläufe sind:
+
+- `Community-Arbeitsablauf`_
+- Community-Arbeitsablauf für Ordner
+- Intranet-Arbeitsablauf für Ordner
+- `Intranet-Arbeitsablauf`_
+- `Einfacher Arbeitsablauf`_
+- `Arbeitsablauf mit einem Zustand`_
+
+.. `Community-Arbeitsablauf`_: community-arbeitsablauf
+.. `Intranet-Arbeitsablauf`_: intranet-arbeitsablauf
+.. `Einfacher Arbeitsablauf`_: einfacher-arbeitsablauf
+..  `Arbeitsablauf mit einem Zustand`_: arbeitsablauf-mit-einem-zustand
+
+Darüberhinaus künnen die Artikeltypen auch keinem Arbeitsablauf zugewiesen werden.
+
+Beim Ändern eines Arbeitsablaufs kann detailliert jedes Stadium des alten Arbeitsablaufs einem Stadium des neuen Arbeitsablaufs zugeordnet werden.
+
+.. image:: adm01.png/image_preview
+
+In diesem Fall ändern wir den Arbeitsablauf von einem Community-Arbeitsablauf zu einem Intranet-Arbeitsablauf.
+
+.. image:: adm02.png/image_preview
+
+Sie können nun auch bestimmen, welchen Status die Artikel erhalten sollen, deren bisheriger Status nicht erhalten bleiben kann, z.B. werden in folgendem Fall alle Artikel mit dem Status *Öffentlicher Entwurf* in den Status *Interner Entwurf* gesetzt werden.
+
+.. image:: adm03.png/image_preview
+
+Bitte vergessen Sie nicht, abschließend noch auf *Änderungen anwenden* zu klicken.
+
+
