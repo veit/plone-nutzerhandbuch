@@ -4,7 +4,7 @@ Konfiguration
 .. toctree::
    :maxdepth: 1
 
-   artikeleinstellungen/index
+   artikeleinstellungen
    aussehen
    bearbeitung
    benutzer-und-gruppen
