@@ -372,14 +372,14 @@ Folgende weitere Funktionen lassen sich vom Verwalter der Website hinzufügen:
 .. |Definitionsliste| image:: definitionsliste.png
 .. |Ausrücken| image:: ausruecken.png
 .. |Einrücken| image:: einruecken.png
-.. |Bild einfügen/verändern| image:: bild-einfuegen-veraendern.png
+.. |Bild einfügen/verändern| image:: plone4-tinymce-bild-hochladen.png
 .. |Bild einfügen| image:: bild-einfuegen-veraendern-2.png/image_preview
-.. |Link einfügen/verändern| image:: link-einfuegen-veraendern.png
+.. |Link einfügen/verändern| image:: plone4-tinymce-link-einfuegen.png
 .. |Link einfügen/bearbeiten allgemein| image:: link-einfuegen-bearbeiten-2.png/image_preview
 .. |Link entfernen| image:: link-entfernen.png
 .. |Anker einfügen/verändern| image:: anker.png
-.. |Anker-Fenster| image:: anker-einfuegen-veraendern.png
-.. |Anker einfügen| image:: link-einfuegen-bearbeiten-4.png/image_preview
+.. |Anker-Fenster| image:: plone4-tinymce-anker-setzen.png
+.. |Anker einfügen| image:: plone4-tinymce-anker-waehlen-und-verlinken.png/image_preview
 .. |Tabelle erstellen/bearbeiten| image:: tabelle.png
 .. |Subdued grid| image:: subdued-grid.png
 .. |Invisible grid| image:: invisible-grid.png
