@@ -1,7 +1,7 @@
-Grafischer-Editor
-=================
+Visueller Editor
+================
 
-Grafischer-HTML-Editor, der in allen aktuellen Browsern ohne zusätzliche Browser-Module funktioniert. 
+Visueller HTML-Editor, der in allen aktuellen Browsern ohne zusätzliche Browser-Module funktioniert. 
 
 Wenn Sie z.B. eine Seite, einen Termin oder eine Nachricht bearbeiten, können Sie den Haupttext im allgemeinen mit dem grafischen Editor TinyMCE bearbeiten. Er besitzt eine Leiste mit Funktionen und ein Aufklappmenü mit verschiedenen Formatvorlagen.
 
