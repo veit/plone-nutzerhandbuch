@@ -25,11 +25,12 @@ Bildlegenden können automatisch angezeigt werden
 Was ist neu im Plone-Nutzerhandbuch
 -----------------------------------
 
-Das Kapitel über Konfiguration ist neu hinzugekommen.
+Folgende Kapitel sind neu hinzugekommen:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
+   portlets-verwalten/index
    konfiguration/index
 
 Weitere Handbücher

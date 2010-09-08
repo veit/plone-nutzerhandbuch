@@ -22,7 +22,7 @@ Inhalt:
    structured-text/index
    browser/index
    webdav
-   konfiguration
+   konfiguration/index
 
 Index und Suche
 ===============
