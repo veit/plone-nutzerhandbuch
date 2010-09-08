@@ -22,5 +22,5 @@ Rückgängig
  Sofern aktiviert, können Sie hier Ihre Transaktionen rückgängig machen
 
 .. _`Persönliche Seite`: persoenliche-seite
-.. |Benutzeraktionen| image:: personal-bar.png/image_preview
+.. |Benutzeraktionen| image:: plone4-konfiguriertes-dashboard.png/image_preview
 

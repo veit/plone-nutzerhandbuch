@@ -17,5 +17,5 @@ Ihr Profil enthält folgende Informationen:
 
 Im Rückmeldeformular kann Ihnen ein Besucher eine Nachricht hinterlassen. Diese Nachricht wird an die E-Mail-Adresse geschickt, die Sie in Ihrem Profil angegeben haben.
 
-.. |Profil| image:: personalize-form.png/image_preview
+.. |Profil| image:: plone4-benutzerprofil-mit-kontaktformular.png/image_preview
 

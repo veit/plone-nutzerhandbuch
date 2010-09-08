@@ -26,19 +26,19 @@ Mögliche Arbeitsabläufe sind:
 .. `Einfacher Arbeitsablauf`_: ../inhalte-verwalten/arbeitsablaeufe/einfacher-arbeitsablauf
 ..  `Arbeitsablauf mit einem Zustand`_: ../inhalte-verwalten/arbeitsablaeufe/arbeitsablauf-mit-einem-zustand
 
-Darüberhinaus künnen die Artikeltypen auch keinem Arbeitsablauf zugewiesen werden.
+Darüberhinaus können die Artikeltypen auch keinem Arbeitsablauf zugewiesen werden.
 
 Beim Ändern eines Arbeitsablaufs kann detailliert jedes Stadium des alten Arbeitsablaufs einem Stadium des neuen Arbeitsablaufs zugeordnet werden.
 
-.. image:: adm01.png/image_preview
+.. image:: plone4-artikeltypen-neuen-arbeitsablauf-einstellen.png/image_preview
 
 In diesem Fall ändern wir den Arbeitsablauf von einem Community-Arbeitsablauf zu einem Intranet-Arbeitsablauf.
 
-.. image:: adm02.png/image_preview
+.. image:: plone4-artikeltypen-neuen-arbeitsablauf-einstellen.png/image_preview
 
 Sie können nun auch bestimmen, welchen Status die Artikel erhalten sollen, deren bisheriger Status nicht erhalten bleiben kann, z.B. werden in folgendem Fall alle Artikel mit dem Status *Öffentlicher Entwurf* in den Status *Interner Entwurf* gesetzt werden.
 
-.. image:: adm03.png/image_preview
+.. image:: plone4-artikeltypen-arbeitsablauf-statusueberleitung.png/image_preview
 
 Bitte vergessen Sie nicht, abschließend noch auf *Änderungen anwenden* zu klicken.
 
