@@ -21,10 +21,10 @@ Mögliche Arbeitsabläufe sind:
 - `Einfacher Arbeitsablauf`_
 - `Arbeitsablauf mit einem Zustand`_
 
-.. `Community-Arbeitsablauf`_: community-arbeitsablauf
-.. `Intranet-Arbeitsablauf`_: intranet-arbeitsablauf
-.. `Einfacher Arbeitsablauf`_: einfacher-arbeitsablauf
-..  `Arbeitsablauf mit einem Zustand`_: arbeitsablauf-mit-einem-zustand
+.. `Community-Arbeitsablauf`_: ../inhalte-verwalten/arbeitsablaeufe/community-arbeitsablauf
+.. `Intranet-Arbeitsablauf`_: ../inhalte-verwalten/arbeitsablaeufe/intranet-arbeitsablauf
+.. `Einfacher Arbeitsablauf`_: ../inhalte-verwalten/arbeitsablaeufe/einfacher-arbeitsablauf
+..  `Arbeitsablauf mit einem Zustand`_: ../inhalte-verwalten/arbeitsablaeufe/arbeitsablauf-mit-einem-zustand
 
 Darüberhinaus künnen die Artikeltypen auch keinem Arbeitsablauf zugewiesen werden.
 
