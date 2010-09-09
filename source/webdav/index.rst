@@ -110,19 +110,35 @@ Nautilus erlaubt die Verwendung normaler URLs mit ``http://``.
 .. _`WebDAV`: http://www.webdav.org/
 .. _`RFC 2518`: http://ftp.ics.uci.edu/pub/ietf/webdav/protocol/rfc2518.pdf
 .. _Download: http://www.fh-hannover.de/fileadmin/media/doc/rz/netdrive.exe
-.. |webfldrs.msi| image:: webfolders-ausfuehren.png/image_preview
-.. |WebFolders| image:: webfolders-WebFldrs.png/image_preview
-.. |WebFolder öffnen| image:: webfolders-oeffnen.png/image_preview
-.. |NetDrive-Konfiguration| image:: netdrive-konfiguration.png/image_preview
-.. |NetDrive-Laufwerk| image:: netdrive-laufwerk.png/image_preview
+.. |webfldrs.msi| image:: webfolders-ausfuehren.png
+.. |WebFolders| image:: webfolders-WebFldrs.png
+   :width: 400px
+   :target: ../_images/webfolders-WebFldrs.png
+.. |WebFolder öffnen| image:: webfolders-oeffnen.png
+.. |NetDrive-Konfiguration| image:: netdrive-konfiguration.png
+   :width: 400px 
+   :target: ../_images/netdrive-konfiguration.png
+.. |NetDrive-Laufwerk| image:: netdrive-laufwerk.png
+   :width: 400px
+   :target: ../_images/netdrive-laufwerk.png
 .. _`Enfolds Desktop Client`: http://www.enfoldsystems.com/Files/setup-desktop-3.0.1-7071.exe
-.. |Enfold session properties| image:: enfold-session-properties.png/image_mini
-.. |Enfold popup| image:: enfold-popup.png/image_preview
-.. |Enfold properties| image:: enfold-properties.png/image_mini
-.. |Enfold offline| image:: enfold-offline.png/image_preview
-.. |Apple - Mit Server verbinden| image:: apple-login.png/image_preview
-.. |Apple - Fenster| image:: apple-window.png/image_preview
-.. |Apple - Terminal| image:: apple-terminal.png/image_preview
-.. |Konqueror| image:: konqueror.png/image_preview
+.. |Enfold session properties| image:: enfold-session-properties.png
+.. |Enfold popup| image:: enfold-popup.png
+   :width: 400px
+   :target: ../_images/enfold-popup.png
+.. |Enfold properties| image:: enfold-properties.png
+.. |Enfold offline| image:: enfold-offline.png
+   :width: 400px
+   :target: ../_images/enfold-offline.png
+.. |Apple - Mit Server verbinden| image:: apple-login.png
+.. |Apple - Fenster| image:: apple-window.png
+   :width: 400px
+   :target: ../_images/apple-window.png
+.. |Apple - Terminal| image:: apple-terminal.png
+   :width: 400px
+   :target: ../_images/apple-terminal.png
+.. |Konqueror| image:: konqueror.png
+   :width: 400px
+   :target: ../_images/konqueror.png
 .. _`davfs`: http://sourceforge.net/projects/dav/
 
