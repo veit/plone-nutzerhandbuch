@@ -23,6 +23,7 @@ Inhalt:
    browser/index
    webdav/index
    konfiguration/index
+   erweiterungen/index
 
 Index und Suche
 ===============
