@@ -27,11 +27,8 @@ Was ist neu im Plone-Nutzerhandbuch
 
 Folgende Kapitel sind neu hinzugekommen:
 
-.. toctree::
-   :maxdepth: 2
-
-   portlets-verwalten/index
-   konfiguration/index
+- :doc:`portlets-verwalten/index`
+- :doc:`konfiguration/index`
 
 Weitere Handbücher
 ------------------
