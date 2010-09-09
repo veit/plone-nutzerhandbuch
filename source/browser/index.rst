@@ -1,5 +1,5 @@
-Browsser
-========
+Browser
+=======
 
 .. toctree::
    :maxdepth: 1
