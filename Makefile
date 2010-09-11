@@ -2,9 +2,8 @@
 all: pdf epub
 
 epub:
-	bin/sphinx-build -b singlehtml source build
-	cp styles/calibre.css build/_static/plone.css
-	cd build; ebook-convert index.html plone-nutzerhandbuch.pdf
+	bin/sphinx-build -b singlehtml -D html_theme=epub source build
+	cd build; ebook-convert index.html plone-nutzerhandbuch.epub --use-auto-toc
 
 pdf:
 	bin/sphinx-build -b singlehtml source build
