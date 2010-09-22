@@ -20,6 +20,10 @@ Im Hauptteil Ihrer Seite können Sie in vier Spalten Portlets zusammenstellen, d
 
 |Persönliche Seite bearbeiten|
 
-.. |Persönliche Seite| image:: dashboard.png
-.. |Persönliche Seite bearbeiten| image:: dashboard-edit.png
+.. |Persönliche Seite| image:: plone4-konfiguriertes-dashboard.png
+   :width: 400px
+   :target: ../../_images/plone4-konfiguriertes-dashboard.png
+.. |Persönliche Seite bearbeiten| image:: plone4-manage-dashboard-leer.png
+   :width: 400px
+   :target: ../../_images/plone4-manage-dashboard-leer.png
 

@@ -29,5 +29,7 @@ Auflistungsstatus
 Porträt
  Um ein neues Porträt hinzuzufügen, klicken Sie einfach die *Durchsuchen*-Taste und wählen ein Bild von sich selbst zum Hochladen. Die empfohlene Größe ist 75 Pixel breit und 100 Pixel hoch.
 
-.. |Meine Einstellungen| image:: plone4-persoenliche-einstellungen-editieren.png/image_preview
+.. |Meine Einstellungen| image:: plone4-persoenliche-einstellungen-editieren.png
+   :width: 400px
+   :target: ../../_images/plone4-persoenliche-einstellungen-editieren.png
 
