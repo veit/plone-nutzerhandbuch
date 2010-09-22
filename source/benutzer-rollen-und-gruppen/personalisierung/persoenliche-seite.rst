@@ -20,6 +20,6 @@ Im Hauptteil Ihrer Seite können Sie in vier Spalten Portlets zusammenstellen, d
 
 |Persönliche Seite bearbeiten|
 
-.. |Persönliche Seite| image:: dashboard.png/image_preview
-.. |Persönliche Seite bearbeiten| image:: dashboard-edit.png/image_preview
+.. |Persönliche Seite| image:: dashboard.png
+.. |Persönliche Seite bearbeiten| image:: dashboard-edit.png
 

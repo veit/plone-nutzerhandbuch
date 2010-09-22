@@ -30,15 +30,15 @@ Darüberhinaus können die Artikeltypen auch keinem Arbeitsablauf zugewiesen wer
 
 Beim Ändern eines Arbeitsablaufs kann detailliert jedes Stadium des alten Arbeitsablaufs einem Stadium des neuen Arbeitsablaufs zugeordnet werden.
 
-.. image:: plone4-artikeltypen-neuen-arbeitsablauf-einstellen.png/image_preview
+.. image:: plone4-artikeltypen-neuen-arbeitsablauf-einstellen.png
 
 In diesem Fall ändern wir den Arbeitsablauf von einem Community-Arbeitsablauf zu einem Intranet-Arbeitsablauf.
 
-.. image:: plone4-artikeltypen-neuen-arbeitsablauf-einstellen.png/image_preview
+.. image:: plone4-artikeltypen-neuen-arbeitsablauf-einstellen.png
 
 Sie können nun auch bestimmen, welchen Status die Artikel erhalten sollen, deren bisheriger Status nicht erhalten bleiben kann, z.B. werden in folgendem Fall alle Artikel mit dem Status *Öffentlicher Entwurf* in den Status *Interner Entwurf* gesetzt werden.
 
-.. image:: plone4-artikeltypen-arbeitsablauf-statusueberleitung.png/image_preview
+.. image:: plone4-artikeltypen-arbeitsablauf-statusueberleitung.png
 
 Bitte vergessen Sie nicht, abschließend noch auf *Änderungen anwenden* zu klicken.
 

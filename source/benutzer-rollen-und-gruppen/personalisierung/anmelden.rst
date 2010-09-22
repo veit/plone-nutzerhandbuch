@@ -23,8 +23,8 @@ Wenn sich auf der Website neue Benutzer auch selbst registrieren dürfen, gibt e
 
 |Registrierung|
 
-.. |Anmeldeportlet| image:: plone4-anmeldeportlet.png/image_preview
-.. |Passwort zusenden| image:: plone4-passwort-zusenden.png/image_preview
-.. |Registrierung| image:: plone4-nutzer-registrierungsformular.png/image_preview
+.. |Anmeldeportlet| image:: plone4-anmeldeportlet.png
+.. |Passwort zusenden| image:: plone4-passwort-zusenden.png
+.. |Registrierung| image:: plone4-nutzer-registrierungsformular.png
 
 
