@@ -1,4 +1,4 @@
-Syndiaktion
+Syndikation
 ===========
 
 Die entsprechenden Rechte vorausgesetzt, können für den aktuellen Ordner oder das aktuelle Thema die Syndikation zugelassen werden und damit anderen Websites die Möglichkeit erhalten, die Inhalte dieses Ordners oder Themas zu abonnieren. 

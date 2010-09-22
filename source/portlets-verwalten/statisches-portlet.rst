@@ -18,6 +18,8 @@ Verweis auf weitere Informationen
 Portlet verstecken
  Markieren Sie diese Option, wenn Sie das Portlet zeitweise verstecken möchten, ohne Ihre Einstellungen zu verlieren.
 
-.. |Statisches Portlet| image:: static-portlet.png/image_preview
+.. |Statisches Portlet| image:: plone4-portlets-eigenschaften-statisches-portlet.png
+   :width: 400px
+   :target: ../_images/plone4-portlets-eigenschaften-statisches-portlet.png
 
 

@@ -10,5 +10,6 @@ Sofortsuche erlauben
 
  Dieses Portlet ist vor allem dann sinnvoll, wenn in der allgemeinen Suche die Sofortsuche nicht verfügbar ist.
 
-.. |Suchportlet| image:: search-portlet.png/image_preview
+.. |Suchportlet| image:: plone4-portlets-eigenschaften-suche.png
+   :width: 400px
 

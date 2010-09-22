@@ -10,5 +10,5 @@ Anzahl der Termine
  Status
  Erforderlich Angabe darüber, dass nur Termine in diesen Stadien angezeigt werden sollen.
 
-.. |Terminportlet| image:: events-portlet.png/image_preview
+.. |Terminportlet| image:: plone4-portlets-eigenschaften-events.png
 

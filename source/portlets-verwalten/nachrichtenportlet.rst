@@ -10,5 +10,5 @@ Anzahl der Artikel
 Status
  Erforderliche Angabe für die Stadien der Artikel, die aufgelistet werden sollen.
 
-.. |Nachrichtenportlet| image:: news-portlet.png/image_preview
+.. |Nachrichtenportlet| image:: plone4-portlets-eigenschaften-nachrichten.png
 

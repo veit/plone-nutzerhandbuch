@@ -8,5 +8,6 @@ Dieses Portlet zeigt diejenigen Artikel an, die vor kurzem verändert wurden.
 Anzahl der Artikel 
  Erforderliche Angabe der Anzahl der Artikel, die im Portlet aufgelistet werden sollen.
 
-.. |Portlet »Aktuelle Änderungen«| image:: recently-portlet.png/image_preview
+.. |Portlet »Aktuelle Änderungen«| image:: plone4-portlets-eigenschaften-aktuelle-aenderungen.png
+   :width: 400px
 

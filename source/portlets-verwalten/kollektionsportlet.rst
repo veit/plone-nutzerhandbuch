@@ -21,5 +21,7 @@ Zeige "Weiter..."-Verweis
 Daten zeigen
  Falls aktiviert, wird das Freigabedatum unterhalb des aufgelisteten Artikels angegezeigt.
 
-.. |Kollektionsportlet| image:: collection-portlet.png/image_preview
+.. |Kollektionsportlet| image:: plone4-portlets-eigenschaften-kollektionsportlet.png
+   :width: 400px
+   :target: ../_images/plone4-portlets-eigenschaften-kollektionsportlet.png
 

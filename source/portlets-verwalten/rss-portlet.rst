@@ -17,6 +17,8 @@ URL des RSS-Feeds
 Aktualisierungsintervall
  Erforderlich Angabe in Minuten, nach der der RSS-Feed aktualisiert werden soll.
 
-.. |RSS-Portlet| image:: rss-portlet.png/image_preview
+.. |RSS-Portlet| image:: plone4-portlets-eigenschaften-rss-inbound.png
+   :width: 400px
+   :target: ../_images/plone4-portlets-eigenschaften-rss-inbound.png
 
 

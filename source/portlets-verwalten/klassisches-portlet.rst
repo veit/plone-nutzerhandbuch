@@ -20,5 +20,6 @@ Vorlage
 Makro
  ``portlet``
 
-.. |Klassisches Portlet| image:: favorites-portlet.png/image_preview
+.. |Klassisches Portlet| image:: plone4-portlets-eigenschaften-klassisch.png
+   :width: 400px
 
