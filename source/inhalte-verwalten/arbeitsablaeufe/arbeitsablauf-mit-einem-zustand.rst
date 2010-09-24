@@ -14,6 +14,6 @@ Der eine Status ist:
 
    Der Unterschied zu keinem Arbeitsablauf ist der, dass Artikel mit diesem Arbeitsablauf auch von Portlets, Ansichten und Produkten die den Status *Veröffentlicht* erwarten, angezeigt werden.
 
-.. |Arbeitsablauf mit einem Status| image:: one_state_workflow.gif/image_preview
-.. image:: onestate.png
+.. |Arbeitsablauf mit einem Status| image:: one_state_workflow.gif
+.. image:: plone4-artikelstatus-veroeffentlicht.png
 

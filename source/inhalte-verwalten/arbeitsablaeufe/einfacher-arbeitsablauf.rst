@@ -12,17 +12,17 @@ Der einfache Arbeitsablauf besteht aus drei Stadien:
 
    Als Voreinstellung hat ein neu erstellter Artikel den Status *privat* und kann nur von den Rollen betrachtet werden, die die Rollen zum Hinzufügen oder Verwalten von Inhalten haben.
 
-   .. image:: sp01.png/image_preview
+   .. image:: plone4-artikelstatus-privat.png
 
 #. Zur Redaktion eingereicht
 
    Wenn der Artikel fertig bearbeitet und öffentlich zugänglich werden soll, können Sie ihn zur Veröffentlichung einreichen.
 
-   .. image:: spu01.png/image_preview
+   .. image:: plone4-einfacher-arbeitsablauf-2zur-veroeffentlichung-einreichen-nutzersicht.png
 
    Ist ein Artikel im Status *Zur Redaktion eingereicht*, wird er  Redakteuren und Verwaltern in einer  Revisionsliste vorgelegt. Diese können dann entscheiden, ob der Artikel veröffentlicht wird.
 
-   .. image:: spu02.png/image_preview
+   .. image:: plone4-einfacher-arbeitsablauf-zur-redaktion-eingereicht.png
 
    Folgende Übergänge stehen Ihnen in diesem Stadium zur Verfügung:
 
@@ -34,18 +34,18 @@ Der einfache Arbeitsablauf besteht aus drei Stadien:
    Zurückweisen
     Redakteure können den Artikel auch zurückweisen, sodass er wieder in den Status *Privat* zurückgesetzt wird und von Ihnen erneut bearbeitet werden kann.
 
-    .. image:: spr03.png/image_preview
+    .. image:: plone4-artikelstatus-2zur-redaktion-eingereicht-zurueckweisen-redaktionssicht.png
 
    Zurückziehen
     Falls Sie selbst Ihren Artikel noch einmal bearbeiten möchten, können Sie ihn wieder zurückziehen in den Status *privat*.
 
-    .. image:: spu03.png/image_preview
+    .. image:: plone4-artikelstatus-2zur-redaktion-eingereicht-zurueckziehen-benutzersicht.png
 
 #. Veröffentlicht
 
    Der Artikel kann von allen betrachtet werden.
 
-   .. image:: public.png/image_preview
+   .. image:: plone4-artikelstatus-veroeffentlicht.png
 
 **Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
 

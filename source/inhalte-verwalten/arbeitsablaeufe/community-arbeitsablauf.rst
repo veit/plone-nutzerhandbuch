@@ -13,37 +13,37 @@ Der Community-Arbeitsablauf hat folgende Stadien:
 
    Ein neu erstellter Artikel hat den Status *Öffentlicher Entwurf* und ist damit nach dem Speichern sofort für alle sichtbar. 
 
-   .. image:: com01.png
+   .. image:: plone4-community-arbeitsablauf-status-oeffentlicher-entwurf.png
 
    Folgende Übergänge gibt es in diesem Stadium:
 
    Privat schalten
     Falls Sie unter Ausschluss der Öffentlichkeit den Artikel bearbeiten wollen, kann der Artikel in den Status *Privat* gesetzt werden.
 
-    .. image:: com03.png
+    .. image:: plone4-community-arbeitsablauf-status-oeffentlicher-entwurf-privat-schalten.png
 
    Zur Veröffentlichung einreichen
     Damit gelangt der Artikel in den Status *Zur Redaktion eingereicht*, in dem ein Redakteur prüfen kann, ob ein Artikel in den Status *Veröffentlicht* gesetzt werden und damit erst auf diversen Übersichtsseiten wie z.B. *Nachrichten* oder *Termine* erscheinen soll.
 
-    .. image:: com04.png 
+    .. image:: plone4-community-arbeitsablauf-status-oeffentlicher-entwurf-einreichen.png 
 
 #. Privat
 
    In diesem Stadium können nur Sie selbst und diejenigen, die die Inhalte verwalten den Artikel betrachten.
 
-   .. image:: sp01.png
+   .. image:: plone4-artikelstatus-privat.png
 
 #. Zur Redaktion eingereicht
 
    Artikel im Stadium *Zur Redaktion eingereicht* werden Redakteuren in einer Revisionsliste vorgelegt.
 
-   .. image:: spu04.png
+   .. image:: plone4-artikelstatus-zur-redaktion-eingereicht.png
 
 #. Veröffentlicht
 
    Der Artikel kann von allen betrachtet werden.
 
-   .. image:: public.png/image_preview
+   .. image:: plone4-artikelstatus-veroeffentlicht.png
 
 **Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
 
