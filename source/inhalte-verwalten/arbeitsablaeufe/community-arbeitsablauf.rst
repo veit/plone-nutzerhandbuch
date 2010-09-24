@@ -25,7 +25,7 @@ Der Community-Arbeitsablauf hat folgende Stadien:
    Zur Veröffentlichung einreichen
     Damit gelangt der Artikel in den Status *Zur Redaktion eingereicht*, in dem ein Redakteur prüfen kann, ob ein Artikel in den Status *Veröffentlicht* gesetzt werden und damit erst auf diversen Übersichtsseiten wie z.B. *Nachrichten* oder *Termine* erscheinen soll.
 
-    .. image:: plone4-community-arbeitsablauf-status-oeffentlicher-entwurf-einreichen.png 
+    .. image:: plone4-community-arbeitsablauf-status-oeffentlicher-entwurf-einreichen.png
 
 #. Privat
 
