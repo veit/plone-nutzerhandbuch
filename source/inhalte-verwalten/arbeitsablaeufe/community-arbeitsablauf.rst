@@ -3,7 +3,7 @@ Community-Arbeitsablauf
 
 - Benutzer können Inhalte erzeugen, die sofort sichtbar sind.
 - Inhalte sollten zur Redaktion eingereicht werden, damit sie z.B. in Termine und Nachrichten erscheinen.
-- iAuch während der Artikel der Redaktion zur Prüfung vorliegt, kann er von jedem gelesen werden.
+- Auch während der Artikel der Redaktion zur Prüfung vorliegt, kann er von jedem gelesen werden.
 
 |Community-Arbeitsablauf|
 

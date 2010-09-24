@@ -38,6 +38,17 @@ Der Intranet-Arbeitsablauf enthält folgende Stadien:
 
    .. image:: plone4-arbeitsablauf-zur-redaktion-eingereicht.png
 
+   Der Redaktion stehen folgende Übergänge zur Verfügung:
+
+   Extern veröffentlichen
+    Anschließend kann der Artikel von allen betrachtet werden.
+   Intern veröffentlichen
+    Der Artikel steht intern, d.h. allen angemeldeten Nutzern zur Verfügung.
+   Zurückweisen
+    Nach dem Zurückweisen wird der Artikel wieder in den Status *Interner Entwurf* gesetzt.
+
+   .. image:: plone4-intranet-arbeitsablauf-status-interner-entwurf-redaktionssicht-intern-veroeffentlichen.png
+
 #. Intern veröffentlicht
 
    Im Status *Intern veröffentlicht* können alle angemeldeten Nutzer das Dokument sehen. Folgende Übergänge stehen in diesem Stadium zur Verfügung:
