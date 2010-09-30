@@ -47,5 +47,5 @@ Der Community-Arbeitsablauf hat folgende Stadien:
 
 **Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
 
-.. |Community-Arbeitsablauf| image:: plone_workflow.gif/image_preview
+.. |Community-Arbeitsablauf| image:: plone_workflow.gif
 
