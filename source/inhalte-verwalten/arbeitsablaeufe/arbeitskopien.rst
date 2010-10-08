@@ -17,7 +17,7 @@ Beim Auswählen dieses Menüeintrags wird eine Kopie des Artikels erstellt, in d
    :width: 400px
    :target: ../../_images/plone4-arbeitskopie-erzeugt.png
 
-Nachdem Sie die neue Version des Artikels fertiggesellt haben, können Sie das Orginals durch die Arbeitskopie ersetzen.
+Nachdem Sie die neue Version des Artikels fertiggesellt haben, können Sie das Original durch die Arbeitskopie ersetzen.
 
 .. image:: plone4-arbeitsablauf-menueansicht-arbeitskopie-ersetzt-original.png
    :width: 400px
