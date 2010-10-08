@@ -50,5 +50,7 @@ Der einfache Arbeitsablauf besteht aus drei Stadien:
 **Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
 
 .. |Einfacher Arbeitsablauf| image:: simple_publication_workflow.gif
+   :width: 400px
+   :target: ../../_images/simple_publication_workflow.gif
 .. _`Bedienelemente`: bedienelemente
 

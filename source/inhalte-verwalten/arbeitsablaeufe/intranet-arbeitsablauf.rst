@@ -67,5 +67,7 @@ Der Intranet-Arbeitsablauf enthält folgende Stadien:
    .. image:: plone4-intranet-arbeitsablauf-status-extern-sichtbar.png
 
 .. |Intranet-Arbeitsablauf| image:: intranet-workflow.gif
+   :width: 400px
+   :target: ../../_images/intranet-workflow.gif
 .. image:: ina02.png
 
