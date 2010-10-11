@@ -21,5 +21,5 @@ Meine Lesezeichen
 Rückgängig
  Sofern aktiviert, können Sie hier Ihre Transaktionen rückgängig machen
 
-.. |Benutzeraktionen| image:: plone4-konfiguriertes-dashboard.png/image_preview
+.. |Benutzeraktionen| image:: plone4-benutzeraktionen.png
 
