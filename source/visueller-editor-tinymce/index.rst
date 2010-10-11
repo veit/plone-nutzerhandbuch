@@ -383,7 +383,7 @@ Folgende weitere Funktionen lassen sich vom Verwalter der Website hinzufügen:
    :target: ../_images/plone4-tinymce-anker-setzen.png
 .. |Anker einfügen| image:: plone4-tinymce-anker-waehlen-und-verlinken.png
    :width: 400px
-   _target: ../_images/plone4-tinymce-anker-waehlen-und-verlinken.png
+   :target: ../_images/plone4-tinymce-anker-waehlen-und-verlinken.png
 .. |Tabelle erstellen/bearbeiten| image:: tabelle.png
 .. |Subdued grid| image:: subdued-grid.png
 .. |Invisible grid| image:: invisible-grid.png
