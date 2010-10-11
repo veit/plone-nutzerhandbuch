@@ -69,5 +69,4 @@ Der Intranet-Arbeitsablauf enthält folgende Stadien:
 .. |Intranet-Arbeitsablauf| image:: intranet-workflow.gif
    :width: 400px
    :target: ../../_images/intranet-workflow.gif
-.. image:: ina02.png
 
