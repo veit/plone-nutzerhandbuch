@@ -29,7 +29,7 @@ Der einfache Arbeitsablauf besteht aus drei Stadien:
    Veröffentlichen
     Redakteure und Verwalter können den Artikel veröffentlichen, sodass er anschließend von allen betrachtet werden kann.
 
-    .. image:: spr02.png/image_preview
+    .. image:: plone4-artikelstatus-2zur-redaktion-eingereicht-veroeffentlichen-redaktionssicht.png
 
    Zurückweisen
     Redakteure können den Artikel auch zurückweisen, sodass er wieder in den Status *Privat* zurückgesetzt wird und von Ihnen erneut bearbeitet werden kann.
