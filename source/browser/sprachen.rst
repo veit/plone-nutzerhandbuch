@@ -6,6 +6,8 @@ Websites sind häufig in mehr als einer Sprache verfügbar. Die Sprache, die Ihn
 |Einstellungen - Sprachen|
 
 .. |Einstellungen - Sprachen| image:: browser-sprachen.png
+                                :width: 400px
+                                :target: ../_images/browser-sprachen.png
 
 Durch die Änderung der Sprache im Ansicht-Menü der Website wird die Einstellung des Browsers überschrieben.
 

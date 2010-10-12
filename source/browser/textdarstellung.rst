@@ -4,6 +4,8 @@ Textdarstellung
 |Browser - Schriftarten|
 
 .. |Browser - Schriftarten| image:: browser-schriftarten.png
+                            :width: 400px
+                            :target: ../_images/browser-schriftarten.png
 
 Schriftart
 ==========

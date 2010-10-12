@@ -360,6 +360,8 @@ Folgende weitere Funktionen lassen sich vom Verwalter der Website hinzufügen:
  Attribute einfügen/bearbeiten 
 
 .. |TinyMCE| image:: tinymce.png
+   :width: 400px
+   :target: ../_images/tinymce.png
 .. |Speichern| image:: speichern.png
 .. |Fett| image:: fett.png
 .. |Kursiv| image:: kursiv.png
