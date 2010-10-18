@@ -6,7 +6,7 @@
 Plone-Nutzerhandbuch
 ====================
 
-.. seealso::
+.. note::
    Das Plone-Nutzerhandbuch ist auch als PDF verfügbar:  `plone-nutzerhandbuch.pdf <plone-nutzerhandbuch.pdf>`_
 
 Inhalt:
