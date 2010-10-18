@@ -6,6 +6,9 @@
 Plone-Nutzerhandbuch
 ====================
 
+.. seealso::
+   Das Plone-Nutzerhandbuch ist auch als PDF verfügbar:  `plone-nutzerhandbuch.pdf <plone-nutzerhandbuch.pdf>`_
+
 Inhalt:
 
 .. toctree::
@@ -32,5 +35,4 @@ Index und Suche
 * :ref:`search`
 
 .. * :ref:`modindex`
-
 
