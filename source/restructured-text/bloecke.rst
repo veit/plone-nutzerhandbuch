@@ -47,6 +47,6 @@ Block quotes sind
 Doctest Blocks
 --------------
 
-Doctest blocks sind interkative Python sessions. Sie beginnen mit ``>>>`` und enden mit einer Leerzeile.
+Doctest blocks sind interaktive Python sessions. Sie beginnen mit ``>>>`` und enden mit einer Leerzeile.
 
 
