@@ -16,12 +16,11 @@ Installation des Plone-Nutzerhandbuchs
     $ cd docs/
     $ make html
 
-.. _`Sphinx Documentation Generator`: http://sphinx.pocoo.org/
-
 Beteiligen Sie sich an der Dokumentation
 ========================================
 
 Gerne richten wir für Sie auch einen eigenen Zweig auf unserem Repository ein, sodass Sie das Entwicklerhandbuch für Ihre Plone-Site anpassen können und zugleich einfach Änderungen aus dem Hauptzweig des Entwicklerhandbuchs übernehmen können. Schreiben Sie uns hierzu einfach eine E-Mail an `plone-nutzerhandbuch@veit-schiele.de`_
 
+.. _`Sphinx Documentation Generator`: http://sphinx.pocoo.org/
 .. _`plone-nutzerhandbuch@veit-schiele.de`: mailto:plone-nutzerhandbuch@veit-schiele.de
 
