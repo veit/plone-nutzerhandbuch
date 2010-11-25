@@ -36,8 +36,20 @@ Rufen Sie die URL jedoch nicht in einem WebDAV-Client sondern in Ihrem Web-Brows
 WebDAV in Windows
 -----------------
 
-Webfolders
-``````````
+Windows 7
+`````````
+
+#. Öffnen Sie das Ordnerfenster *Computer* und klicken Sie anschließend auf *Laufwerk einbinden*. 
+#. Klicken Sie anschließend auf *Verbindung  mit  einer  Website  herstellen,  auf  der  Sie  Dokumente und Bilder speichern können.*
+#. Geben Sie in den nun folgenden Dialogfenstern die Zugangsdaten für Ihren WebDAV-Server ein und klicken anschließend auf *Fertig stellen*.
+#. Bei der erstmaligen Verbindung mit dem WebDAV-Server werden Sie nach dem Benutzernamen und Passwort gefragt. Anschließend öffnet sich der gewünschte WebDAV-Ordner und Sie können  wie  bei  lokalen Laufwerken auf Ordner  und  Dateien  zugreifen. 
+
+**Anmerkung:** Meldet Windows 7 beim Einrichten der WebDAV-Verbindung *The folder name is not valid* obwohl Ihre Angaben richtig sind, so hilft Ihnen eventuell folgender Beitrag in der Microsoft Hilfe und Support-Beitrag weiter: `Error message when you open a Web site by using Basic authentication in Expression Web on a computer that is running Windows Vista: “The folder name is not valid”`_.
+
+.. _`Error message when you open a Web site by using Basic authentication in Expression Web on a computer that is running Windows Vista: “The folder name is not valid”`: http://support.microsoft.com/kb/928692/en
+
+Webfolders in Windows XP und Windows 2003
+`````````````````````````````````````````
 
 Windows bringt mit XP und 2003 einen eigenen WebDAV-Client mit. Um ihn verwenden zu können, müssen Sie zunächst jedoch folgende Schritte ausführen:
 
