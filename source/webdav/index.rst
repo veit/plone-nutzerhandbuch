@@ -44,9 +44,9 @@ Windows 7
 #. Geben Sie in den nun folgenden Dialogfenstern die Zugangsdaten für Ihren WebDAV-Server ein und klicken anschließend auf *Fertig stellen*.
 #. Bei der erstmaligen Verbindung mit dem WebDAV-Server werden Sie nach dem Benutzernamen und Passwort gefragt. Anschließend öffnet sich der gewünschte WebDAV-Ordner und Sie können  wie  bei  lokalen Laufwerken auf Ordner  und  Dateien  zugreifen. 
 
-**Anmerkung:** Meldet Windows 7 beim Einrichten der WebDAV-Verbindung *The folder name is not valid* obwohl Ihre Angaben richtig sind, so hilft Ihnen eventuell folgender Beitrag in der Microsoft Hilfe und Support-Beitrag weiter: `Error message when you open a Web site by using Basic authentication in Expression Web on a computer that is running Windows Vista: “The folder name is not valid”`_.
+**Anmerkung:** Meldet Windows 7 beim Einrichten der WebDAV-Verbindung *The folder name is not valid* obwohl Ihre Angaben richtig sind, so hilft Ihnen eventuell der Beitrag in `Microsoft Hilfe und Support`_ weiter.
 
-.. _`Error message when you open a Web site by using Basic authentication in Expression Web on a computer that is running Windows Vista: “The folder name is not valid”`: http://support.microsoft.com/kb/928692/en
+.. _`Microsoft Hilfe und Support`: http://support.microsoft.com/kb/928692/en
 
 Webfolders in Windows XP und Windows 2003
 `````````````````````````````````````````
