@@ -38,3 +38,10 @@ Organisation
 - Für die verschiedenen Aufgabenbereiche können jeweils unterschiedliche Personen angegeben werden
 - Probleme können auf Folgeaufgaben referenzieren.
 
+  Sofern `Graphviz`_ installiert ist, lassen sich die Referenzen zwischen den Aufgaben darstellen, z.B.:
+
+  |Graphviz| 
+
+.. _`Graphviz`: http://www.graphviz.org/
+..  |Graphviz| image:: getReferencePng.png
+
