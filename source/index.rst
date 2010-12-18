@@ -13,7 +13,7 @@ Plone-Nutzerhandbuch
 .. note::
    Sie können das Plone-Nutzerhandbuch auch als Buildout-Projekt mit dem `Sphinx Documentation Generator <http://sphinx.pocoo.org/>`_ und den Sourcen anonym aus unserem SVN-Repository auschecken. Gerne können Sie sich auch am Plone-Nutzerhandbuch beteiligen. Weitere Information erhalten Sie unter `Installation`_.
 
-.. _`Installation`: installation
+.. _`Installation`: installation.html
 
 Inhalt:
 
