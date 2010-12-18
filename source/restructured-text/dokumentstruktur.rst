@@ -18,6 +18,7 @@ Die Unterstreichung muss dabei mindestens so lang wie der Text der Überschrift 
 
 Beispiel:
 
+=============
 Überschrift 1
 =============
 Überschrift 2
@@ -29,6 +30,7 @@ Beispiel:
 
 Diese differenzierte Textgliederung ist in *reStructured Text* mit einfachen Mitteln möglich::
 
+ =============
  Überschrift 1
  =============
  Überschrift 2
