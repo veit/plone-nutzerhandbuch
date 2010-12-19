@@ -99,30 +99,30 @@ Auch verschiedenartige Hervorhebungen lassen sich realisieren:
         $ ./bin/instance start
                          
 
-Other Sphinx and restructured text source snippets
-----------------------------------------------------
+RestructuredText-Markierungen
+-----------------------------
 
-Kursiv::
+- Kursiv::
 
     *Italic*
 
-Halbfett::
+- Halbfett::
 
     **Halbfett**
 
-Hervorhebung von Code innerhalb einer Zeile::
+- Hervorhebung von Code innerhalb einer Zeile::
 
     ``code_hervorhebung``
 
-Externe Links::
+- Externe Links::
 
     `Externer Link <http://www.plone-nutzerhandbuch.de>`_
-    
-Innterner Link::
+
+- Interner Link::
 
     :doc:`Interner Link </erweiterungen/poi/aufgabenverwaltung-erstellen.txt>`
-        
-Aufzählungsliste::
+
+- Aufzählungsliste::
 
     * Erster Punkt
     * Zweiter Punkt
