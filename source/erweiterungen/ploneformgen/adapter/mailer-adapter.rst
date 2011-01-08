@@ -64,6 +64,26 @@ Vorlage für den Haupttext der Mail
   
 .. _`Plone-Entwicklerhandbuch`: http://www.plone-entwicklerhandbuch.de/plone-entwicklerhandbuch/erscheinungsbild/zope-page-templates-zpt
 
+Mail-Body-Typ
+  Mime-Typ des Textkörpers der Mail. 
+HTTP-Headers
+  Die Angaben in den HTML-Headers, die in die Nachricht eingefügt werden.
+
+  X-Forwarded-For
+    Die IP-Adresse desjenigen, der auf das Formular über einen Proxy-Server zugreift.
+  Remote Address
+    Die IP-Adresse des Servers, über den auf das Formular zugegriffen wird.
+  Pfad-Information
+    Pfad zum Formular
+  User Agent
+    Der Webbrowser, mit dem das Formular ausgefüllt wurde.
+  HTTP-Refferer
+    Internetadresse, von der der Nutzer auf das Formular gekommen ist.
+
+Zusätzliche Headers-Angaben
+  Hier können zusätzliche RFC822-kompatible E-Mail-Headers-Angaben gemacht werden.
+
+
 Verschlüsselung
 ---------------
 
