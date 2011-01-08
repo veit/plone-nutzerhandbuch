@@ -154,7 +154,7 @@ Hinweise
 
 ::
 
-    ..note::
+    .. note::
 
         TODO: Überprüfen, ob dieses Verhalten noch gültig ist.
 
