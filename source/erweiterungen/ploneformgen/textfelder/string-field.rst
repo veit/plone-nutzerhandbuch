@@ -26,6 +26,6 @@ Validator
   - Ist eine wohlformatierte URL
   - Ist eine gültige US-Telefonnummer
   - Ist eine gültige internationale Telefonnummer
-  - Ist eine gültige Pstleitzahl
+  - Ist eine gültige Postleitzahl
   - Enthält keine Spam-Links
 

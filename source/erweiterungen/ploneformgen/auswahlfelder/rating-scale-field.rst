@@ -15,5 +15,5 @@ Fragen
 Antworten
   Liste der möglichen Antworten, eine je Zeile.
 
-  Diese bilden dann die Spalten des Beertungsfeldes.
+  Diese bilden dann die Spalten des Bewertungsfeldes.
 
