@@ -12,4 +12,5 @@ Nach der Installation können Verwalter der Website die Erweiterung für die Web
    :maxdepth: 1
 
    poi/index
+   ploneformgen/index
 
