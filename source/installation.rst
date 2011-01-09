@@ -150,11 +150,23 @@ Hinweise
 
 .. note::
 
-    TODO: Überprüfen, ob dieses Verhalten noch gültig ist.
+    TODO: Diese Box enthält einen Hinweis!
 
 ::
 
     .. note::
 
-        TODO: Überprüfen, ob dieses Verhalten noch gültig ist.
+        TODO: Diese Box enthält einen Hinweis! 
+
+Tipps
+`````
+
+.. tip::
+    Diese Box enthält einen Tipp!
+
+::
+
+    .. tip::
+        Diese Box enthält einen Tipp!
+
 

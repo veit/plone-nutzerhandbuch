@@ -19,7 +19,7 @@ Extrahieren des Empfängers
   
   Wird etwas anderes als *Keine* verwendet, überschreibt die Angabe diejenige aus *Empfänger-E-Mail-Adresse*.
   
-  .. note::
+  .. tip::
   
      Seien Sie vorsichtig, Nutzern unkontrolliert Empfängeradressen eingeben zu lassen.
 
@@ -30,7 +30,7 @@ BCC-Empfänger
 Extrahieren der Rückantwortadresse
   Wählen Sie ein Formularfeld, aus dem die Rückantwortadresse extrahiert werden soll.
   
-  .. note::
+  .. tip::
   
      Für dieses Feld sollte dann einer der Validatoren zur Überprüfung der E-Mail-Adressen verwendet werden.
 

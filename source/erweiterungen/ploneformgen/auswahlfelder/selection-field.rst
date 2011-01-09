@@ -17,7 +17,7 @@ Zeilen
 Optionen
   Verwenden Sie für jede neue Option eine neue Zeile.
 
-  .. note::
+  .. tip::
 
      Es kann auch das Format ``Wert|Bezeichnung`` verwendet werden.
 

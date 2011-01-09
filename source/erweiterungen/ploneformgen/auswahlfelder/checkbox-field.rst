@@ -11,7 +11,7 @@ Hilfetext
 Erforderlich
   Es muss ein Wert für dieses Feld angegeben werden.
 
-  .. note::
+  .. tip::
 
      In einem Checkboxfeld bewirkt das Aktivieren von *Erforderlich* lediglich, dass nach dem Titel des Feldes eine entsprechende Markierung angezeigt wird. 
 
