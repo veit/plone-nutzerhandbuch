@@ -10,6 +10,7 @@ PloneFormGen
    :maxdepth: 3
 
    ploneformgen-installation
+   ploneformgen-aktivierung
    formularordner
    erweiterte-einstellungen
    hinzufuegbare-formularelemente
