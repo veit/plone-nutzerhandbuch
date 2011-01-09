@@ -6,8 +6,15 @@ Im Reiter *Overrides* des Bearbeitungsformulars für den Formularordner lassen s
 
 Eigene Aktion im Erfolgsfall
   Anstatt einer Danke-Seite können Sie auch eine Aktion aufrufen, die nach dem Aktionsadapter aufgerufen wird. Dies kann entweder
-für eine eigene ERfolgsvorlage oder ein Skript verwendet werden. Beispiele hierfür sind ``redirect_to`` oder ``traverse_to`` und ein
- TALES-Ausdruck, z.B. ``redirect_to:string:thanks-page``.
+für eine eigene Danke-Seite oder ein Skript verwendet werden. Beispiele hierfür sind ``redirect_to`` oder ``traverse_to`` und ein
+ TALES-Ausdruck. So leitet z.B.::
+ 
+  redirect_to:string:thanks-page
+
+ auf eine Seite mit der ID ``thanks-page`` weiter. Neben relativen URLs könnten hier auch absolute URLs angegeben werden, also z.B.::
+
+  redirect_to:string:http://demosite.veit-schiele.de/formulare/formular/thank-you
+
 Custom Form Action
   Dies überschreibt das Attribut der Formularaktion, wobei eine URL angegeben werden muss, an die das Formular die Inhalte sendet. Dies umgeht die Validierung, die eigene Aktion im Erfolgsfall und die Danke-Seite.
 Form Setup Script

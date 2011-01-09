@@ -7,7 +7,7 @@ PloneFormGen
 .. _`Products.PloneFormGen`: http://pypi.python.org/pypi/Products.PloneFormGen
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    ploneformgen-installation
    ploneformgen-aktivierung
