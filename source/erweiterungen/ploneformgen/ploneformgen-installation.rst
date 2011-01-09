@@ -47,7 +47,24 @@ Add Custom Scripts
   Üblicherweise sind dies Verwalter.
 
 Edit TALES Fields
-  Wer darf Felder hinzufügen, in denen die *Template Attribute Language Expression Syntax (TALES)* verwendet wird, z.B. die Vorlage für den Haupttext der Mail?
+  Wer darf Felder hinzufügen, in denen die *Template Attribute Language Expression Syntax (TALES)* verwendet wird:
+  
+  - Im Formularordner
+  
+    - Eigene Aktion im Erfolgsfall
+    - Skript beim Laden des Formulars
+    - Skript nach der Validierung
+    - Header-Angaben
+
+  - Im Mailer-Adapter
+
+    - Vorlage für den Haupttext der Mail
+
+  - In Formularfeldern
+
+    - Eigener Validator
+    - Optionen des Vokabulars
+    - Standardausdruck
 
   Üblicherweise sind dies Verwalter.
 
@@ -59,12 +76,22 @@ Edit Python Fields
 Edit Advanced Fields
   Wer darf die folgenden Felder des Mail-Adapters bearbeiten:
 
-  - Extrahieren des Empfängers
-  - Extrahieren der Rückantwortadresse
-  - Extrahieren der Betreffzeile
-  - Typ des Mail-Body festlegen
-  - Konfigurieren der HTTP-Headers
-  - Konfigurieren zusätzlicher Header-Angaben
+  - Im Formularordner
+
+    - Angabe des Aktionsadapters
+
+  - Im Mailer-Adapter
+
+    - Extrahieren des Empfängers
+    - Extrahieren der Rückantwortadresse
+    - Extrahieren der Betreffzeile
+    - Typ des Mail-Body festlegen
+    - Konfigurieren der HTTP-Headers
+    - Konfigurieren zusätzlicher Header-Angaben
+
+  - In Formularfeldern
+
+    - Versteckt (Diese Option ist üblicherweise nicht sinnvoll, wenn nicht zugleich dynamische Feldinhalte generiert werden können.)
 
   Üblicherweise sind dies Verwalter.
 
