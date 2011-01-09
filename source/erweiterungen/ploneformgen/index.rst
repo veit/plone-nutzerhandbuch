@@ -9,10 +9,10 @@ PloneFormGen
 .. toctree::
    :maxdepth: 1
 
-   ploneformgen-installation
-   ploneformgen-aktivierung
+   installation
+   aktivierung-und-konfiguration
    formularordner
-   erweiterte-einstellungen
-   hinzufuegbare-formularelemente
+   ueberschreiben
+   formularelemente
    im-und-export
 

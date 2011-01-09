@@ -1,8 +1,8 @@
-========================
-Erweiterte Einstellungen
-========================
+=============
+Überschreiben
+=============
 
-Im Reiter *Overrides* des Bearbeitungsformulars für den Formularordner lassen sich Formularaktionen überschreiben:
+Im Reiter *Überschreiben* des Bearbeitungsformulars für den Formularordner lassen sich Formularaktionen überschreiben:
 
 Eigene Aktion im Erfolgsfall
   Anstatt einer Danke-Seite können Sie auch eine Aktion aufrufen, die nach dem Aktionsadapter aufgerufen wird. Dies kann entweder

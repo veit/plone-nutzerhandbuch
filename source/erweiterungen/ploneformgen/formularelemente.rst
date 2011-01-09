@@ -1,6 +1,6 @@
-=============================
-Hinzufügbare Formularelemente
-=============================
+================
+Formularelemente
+================
 
 .. toctree::
    :maxdepth: 2

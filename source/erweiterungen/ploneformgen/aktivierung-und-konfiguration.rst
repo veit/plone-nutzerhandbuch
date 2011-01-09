@@ -1,6 +1,6 @@
-===========================================
-PloneFormGen-Aktivierung und -Konfiguration
-===========================================
+=============================
+Aktivierung und Konfiguration
+=============================
 
 Aktivieren
 ----------
