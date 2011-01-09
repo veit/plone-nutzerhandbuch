@@ -21,3 +21,9 @@ Anzahl der Zeilen
 Maximale Länge
   Die maximale Anzahl von Zeichen, die ein Nutzer eingeben kann.
 
+.. note::
+
+    Die für den visuellen Editor benötigten Javascript- und CSS-Dateien werden häufig nicht für nicht-angemeldete Nutzer geladen. Falls dieses Feld also für anonyme Nutzer angezeigt werden soll, muss der Verwalter der Website im *Portal CSS Tool* und im *Portal Javascripts Tool* den folgenden TAL-Ausdruck für diese Dateien entfernen::
+
+      not: portal/portal_membership/isAnonymousUser
+
