@@ -58,14 +58,14 @@ Feldlisten
 Feldlisten können zur Darstellung von Datensätzen, zur Weiterverarbeitung in Datenbanken oder einfach als zweispaltige Tabelle verwendet werden. Aus::
 
  :Autor:  Veit Schiele
- :Beteiligte: Sönke Löffler-von Gierke
- :Rechte: (Scheme=URL) http://www.plone-nutzerhandbuch.de/plone-nutzerhandbuch/structured-text/anhang/copyright/ 
+ :Beteiligte: Carsten Raddatz
+ :Rechte: © Copyright 2010–2011, Veit Schiele
 
 wird 
 
 :Autor:  Veit Schiele
-:Beteiligte: Sönke Löffler-von Gierke
-:Rechte: (Scheme=URL) http://www.plone-nutzerhandbuch.de/plone-nutzerhandbuch/structured-text/anhang/copyright/ 
+:Beteiligte: Carsten Raddatz
+:Rechte: © Copyright 2010–2011, Veit Schiele
 
 Optionslisten
 -------------
