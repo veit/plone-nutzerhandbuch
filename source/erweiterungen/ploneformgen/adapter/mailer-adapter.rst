@@ -68,9 +68,9 @@ Vorlage für den Haupttext der Mail
 
       Hier ist ein Beispiel, wie der Wert eines Feldes, in diesem Fall mit der ID ``name`` in die Vorlage eingefügt werden kann::
 
-        <tal:block tal:content="python:request.form.get('name', 'supporter')"/>
+        <tal:block tal:content="python:request.form.get('name', 'Plonista')"/>
 
-      ``name`` ist die ID des Feldes, in den der Name desjenigen eingetragen werden soll, der das Formular ausfüllt und ``supporter`` ist der Standardwert, der genommen wird sofern das Feld ``name`` leer ist.
+      ``name`` ist die ID des Feldes, in den der Name desjenigen eingetragen werden soll, der das Formular ausfüllt und ``Plonista`` ist der Standardwert, der genommen wird sofern das Feld ``name`` leer ist.
 
 Mail-Body-Typ
   Mime-Typ des Textkörpers der Mail. 
@@ -115,7 +115,7 @@ Betreff
 
        Wollen Sie die Betreffzeile z.B. zusammensetzen aus einer statischen Anrede und dem Wert in einem Feld, so können Sie z.B. den folgenden TALES-Ausdruck verwenden::
 
-         python:'Thank you ' + request.get('name', 'supporter')
+         python:'Vielen Dank' + request.get('name', 'supporter')
 
        Dabei ist ``name`` die ID eines Feldes, in die der Name desjenigen eingetragen werden soll, der das Formular ausgefüllt hat und ``supporter`` der Standardwert, der eingetragen wird sofern kein Eintrag in ``name`` erfolgte. 
   
