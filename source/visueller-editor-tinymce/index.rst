@@ -360,6 +360,12 @@ Folgende weitere Funktionen lassen sich vom Verwalter der Website hinzufügen:
 |Attribute einfügen/bearbeiten|
  Attribute einfügen/bearbeiten 
 
+Vorlagen
+--------
+
+|Inhalte aus Vorlagen einfügen|
+ Mit einer Erweiterung lassen sich auch Textbausteine einfach einfügen. Diese Textbausteine müssen zuvor als normale Seiten erstellt worden sein. Es ist so also auch möglich, Bilder, Links auf Dateien etc. als Textbausteine abzuspeichern.
+
 .. |TinyMCE| image:: tinymce.png
    :width: 400px
    :target: ../_images/tinymce.png
@@ -436,4 +442,5 @@ Folgende weitere Funktionen lassen sich vom Verwalter der Website hinzufügen:
 .. |Hilfslinien und unsichtbare Elemente ein-/ausblenden| image:: hilfslinien-ein-ausblenden.png
 .. |Steuerzeichen an/aus| image:: steuerzeichen-an-aus.png
 .. |Attribute einfügen/bearbeiten| image:: attribute-einfuegen-bearbeiten.png
+.. |Inhalte aus Vorlagen einfügen| image:: vorlagen.png
 
