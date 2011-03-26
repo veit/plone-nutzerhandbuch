@@ -115,9 +115,9 @@ Betreff
 
        Wollen Sie die Betreffzeile z.B. zusammensetzen aus einer statischen Anrede und dem Wert in einem Feld, so können Sie z.B. den folgenden TALES-Ausdruck verwenden::
 
-         python:'Vielen Dank' + request.get('name', 'supporter')
+         python:'Vielen Dank' + request.get('name', 'Plonista')
 
-       Dabei ist ``name`` die ID eines Feldes, in die der Name desjenigen eingetragen werden soll, der das Formular ausgefüllt hat und ``supporter`` der Standardwert, der eingetragen wird sofern kein Eintrag in ``name`` erfolgte. 
+       Dabei ist ``name`` die ID eines Feldes, in die der Name desjenigen eingetragen werden soll, der das Formular ausgefüllt hat und ``Plonista`` der Standardwert, der eingetragen wird sofern kein Eintrag in ``name`` erfolgte. 
   
 Absender
   Ein TALES-Ausdruck, der an anderer Stelle gemachte Angaben zum Absender überschreibt.

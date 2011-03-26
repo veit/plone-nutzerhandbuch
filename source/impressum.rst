@@ -4,7 +4,7 @@ Impressum
 
 Plone-Nutzerhandbuch (Version 4.0)
 
-© Copyright 2010, Veit Schiele
+© Copyright 2010–2011, Veit Schiele
 
 | Veit Schiele
 | Mansteinstr. 7
