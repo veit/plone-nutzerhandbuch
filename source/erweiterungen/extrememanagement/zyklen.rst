@@ -1,6 +1,6 @@
-==================
-Zyklus (Iteration)
-==================
+====================
+Zyklen (Iterationen)
+====================
 
 Ein Projekt wird üblicherweise in Zyklen (Iterationen) geplant. Iterationen dauern im allgemeinen zwischen ein und drei Wochen, in der eine bestimmte Anzahl von Aufgaben (Stories) implementiert werden.
 

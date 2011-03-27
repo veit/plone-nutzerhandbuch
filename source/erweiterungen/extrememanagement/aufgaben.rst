@@ -1,6 +1,6 @@
-=======
-Aufgabe
-=======
+========
+Aufgaben
+========
 
 Mitarbeiter können eine :doc:`Anforderung (Story) <anforderung>` schätzen, indem sie eine oder mehrere Aufgaben in ener Anforderung erstellen.
 

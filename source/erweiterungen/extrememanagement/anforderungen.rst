@@ -1,6 +1,6 @@
-===========
-Anforderung
-===========
+=============
+Anforderungen
+=============
 
 Eine Anforderung kann innerhalb eines :doc:`Projekts <projekt>`, :doc:`Angebots <angebot>` oder :doc:`Zyklus <zyklus>` von Mitarbeitern oder Kunden hinzugefügt werden. Dabei lassen sich jeweils beliebig viele Anforderungen hinzufügen.
 

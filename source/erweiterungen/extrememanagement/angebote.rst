@@ -1,6 +1,6 @@
-=======
-Angebot
-=======
+========
+Angebote
+========
 
 Angebote enthalten :doc:`Anforderungen (stories) <anforderung>`, die ein Kunde an ein Projekt hat. Sie werden verwendet um Kundenwünsche zu bündeln und erste Anhaltspunkte über die Größe eines Projekts zu erhalten.
 

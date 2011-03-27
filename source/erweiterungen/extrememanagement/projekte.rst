@@ -1,6 +1,6 @@
-=======
-Projekt
-=======
+========
+Projekte
+========
 
 Wählen Sie nun im *Hinzufügen*-Menü Ihrer Plone-Site *Projekt* aus. Anschließend können Sie für das Projekt folgende Angaben machen:
 
