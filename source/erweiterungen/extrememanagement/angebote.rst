@@ -9,15 +9,15 @@ Für ein Angebot können Sie folgende Angaben machen:
 Titel
     Titel des Angebots    
 Beschreibung
-    Beschreibung des Angeobts
+    Beschreibung des Angebots
 Start-Datum
     Geschätzter Projektstart
 End-Datum
-    Feschätzter Fertigstellungstermin
+    Geschätzter Fertigstellungstermin
 Zeige Entwurfs-Stadien
     Wollen Sie in der Angebotsansicht Anforderungen im Entwurfs-Stadium extra markiert haben?
 
 Ein Angebot kann entweder privat oder veröffentlicht sein.
 
-Für jedes Angeobt können anschließend :doc:`Anforderungen <anforderung>` hinzugefügt werden. Die in den Anforderungen geschätzte Zeit in Tagen wird in der Ansicht des Angebots summiert.
+Für jedes Angebot können anschließend :doc:`Anforderungen <anforderung>` hinzugefügt werden. Die in den Anforderungen geschätzte Zeit in Tagen wird in der Ansicht des Angebots summiert.
 
