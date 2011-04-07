@@ -15,7 +15,7 @@ Proxy-Rolle
 Skript
   Hier kann das Skript eingefügt werden.
 
-  Folgende parameter sind möglich:
+  Folgende Parameter sind möglich:
 
   ``fields``
     HTTP-Request-Formularfelder als Schlüssel-Wert-Paare.
