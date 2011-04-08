@@ -329,6 +329,17 @@ Folgende weitere Funktionen lassen sich vom Verwalter der Website hinzufügen:
  Hintergrundfarbe
 |Multimedia einbetten/bearbeiten|
  Multimedia einbetten/bearbeiten
+
+ Damit nun tatsächlich Multimedia-Inhalte eingebettet werden können, sind in `HTML-Filter`_ folgende Änderungen notwendig:
+
+ .. _`HTML-Filter`: ../../konfiguration/html-filter.html
+
+ - *Objekt* und *Embed* dürfen nicht in *Fiese Tags* angegeben sein.
+ - *Object* und *Param* dürfen nicht in der Liste  *Entfernte Tags* angegeben sein.
+ - *Embed* muss in *Benutzerdefinierte Tags* angegeben sein.
+
+ Für Flickr-Slideshows und die meisten anderen einzubindenden Dateien sollten Sie *HTML editieren* anklicken und den Code an die passende Stelle kopieren.
+
 |Sonderzeichen einfügen|
  Sonderzeichen einfügen
 |Trennlinie einfügen|
