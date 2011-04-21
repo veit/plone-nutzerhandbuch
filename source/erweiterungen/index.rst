@@ -11,6 +11,7 @@ Nach der Installation können Verwalter der Website die Erweiterung für die Web
 .. toctree::
    :maxdepth: 1
 
+   easytemplate/index
    extrememanagement/index
    poi/index
    ploneformgen/index
