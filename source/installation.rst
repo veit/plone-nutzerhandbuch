@@ -2,9 +2,6 @@
 Installation des Plone-Nutzerhandbuchs
 ======================================
 
-.. _`Buildout`: http://pypi.python.org/pypi/zc.buildout
-.. _`Sphinx Documentation Generator`: http://sphinx.pocoo.org/
-
 #. Auschecken des Projekts
    ::
     $ svn co https://dev.veit-schiele.de/svn/plone-nutzerhandbuch/trunk/ plone-nutzerhandbuch
