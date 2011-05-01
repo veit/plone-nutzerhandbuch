@@ -11,9 +11,10 @@ Plone-Nutzerhandbuch
    Das Plone-Nutzerhandbuch ist auch als PDF verfügbar:  `plone-nutzerhandbuch.pdf <plone-nutzerhandbuch.pdf>`_
 
 .. note::
-   Sie können das Plone-Nutzerhandbuch auch als Buildout-Projekt mit dem `Sphinx Documentation Generator <http://sphinx.pocoo.org/>`_ und den Sourcen anonym aus unserem SVN-Repository auschecken. Gerne können Sie sich auch am Plone-Nutzerhandbuch beteiligen. Weitere Information erhalten Sie unter `Installation`_.
+   Sie können das Plone-Nutzerhandbuch auch als Buildout-Projekt mit dem `Sphinx Documentation Generator <http://sphinx.pocoo.org/>`_ und den Sourcen anonym aus unserem SVN-Repository auschecken. Gerne können Sie sich auch am Plone-Nutzerhandbuch beteiligen. Weitere Information erhalten Sie unter :doc:`installation`.
 
-.. _`Installation`: installation.html
+.. note::
+   Sie können das Plone-Nutzerhandbuch auch in Ihrer Plone-Site bereitstellen. Eine Anleitung zur Überführung der Inhalte in eine Plone-Site finden Sie unter :doc:`migration`.
 
 Inhalt:
 
