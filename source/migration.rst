@@ -20,13 +20,12 @@ Voraussetzungen
   ::
    $ sudo port install git-core
 
-Erstellen der Dokumentation
-===========================
+- Erstellen der Dokumentation
 
-Dies ist in :doc:`installation` beschrieben.
+  Dies ist in :doc:`installation` beschrieben.
 
-Installation
-============
+Migration
+=========
 
 #. Installation der Migrationsskripte
    ::
@@ -42,7 +41,7 @@ Installation
 
     In userem Fall wird das Plone-Nutzerhandbuch in eine lokale Plone-Site mit der ID `Plone` importiert wobei das Plone Help Center die ID ``documentation`` und das *reference Manual* die ID ``plone-nutzerhandbuch`` hat. Falls Sie die Dokumentation in eine andere Plone-Site mit anderen *HTTP Basic Auth*-Credentials importieren möchten, können Sie diese Zeile selbstverständlich entsprechend abändern.
 
-   Folgende Schritte führt das Migrationsskript aus:
+   Folgende Schritte werden während der Migration ausgeführt:
 
    - Aus der Sphinx-Dokumentation werden Titel, Beschreibung und Haupttext von jeder Seite extrahiert.
    - Anschließend werden die Inhalte für das Plone Help Center mit XML-RPC erzeugt.
