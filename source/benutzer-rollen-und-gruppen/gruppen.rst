@@ -9,6 +9,3 @@ Auf der Plone-Website können Benutzer zu Gruppen zusammengefasst werden. Dabei 
 - Redakteure
 - Angemeldete Benutzer
 
-Die Plone-Site kann so konfiguriert werden, dass beim Anlegen einer neuen Gruppe automatisch ein gemeinsamer Arbeitsraum für diese Gruppe angelegt wird, in dem alle Gruppenmitglieder Artikel hinzufügen, bearbeiten und wieder löschen können. Dabei sind diese Arbeitsräume zunächst nur für die Gruppenmitglieder und Administratoren sichtbar.  
-
-

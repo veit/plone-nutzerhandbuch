@@ -15,6 +15,11 @@ Neues Passwort:
 Passwort wiederholen:
  Wiederholen Sie hier Ihr Passwort. Hiermit soll ein versehentliches Vertippen ausgeschlossen werden.
 
+Registrierung durch den Eigentümer der Website
+----------------------------------------------
+
+Wenn Sie der Eigentümer der Website sind, können Sie im ``register``-Formular neue Nutzer anlegen.
+
 Registrierung durch den Nutzer selbst
 -------------------------------------
 
