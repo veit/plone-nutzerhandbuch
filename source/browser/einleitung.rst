@@ -18,7 +18,6 @@ Und um sich an der Website erfolgreich anmelden zu können, muss ein Cookie gese
 
 .. _Cookies: cookies
 
-Sollten Sie darüberhinaus den WYSIWYG-Editor *Kupu* verwenden wollen, sollten Sie einen Browser verwenden, der sog.  *Rich Text Controls* unterstützt (s.a. Kupu_).
+Sollten Sie darüberhinaus einen visuellen Editor wie z.B. :doc:`../visueller-editor-tinymce/index` verwenden, sollten Sie einen Browser verwenden, der sog.  *Rich Text Controls* unterstützt. 
 
-.. _Kupu: ../kupu-wysiwyg-editor
 
