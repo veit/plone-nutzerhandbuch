@@ -12,3 +12,5 @@ Websites sind häufig in mehr als einer Sprache verfügbar. Die Sprache, die Ihn
 
 Durch die Änderung der Sprache im Ansicht-Menü der Website wird die Einstellung des Browsers überschrieben.
 
+Beim Erstellen eines Artikels beeinflussen diese Einstellungen auch, wie die ID in der Adresszeile des Browsers aus dem Titel erstellt wird.
+
