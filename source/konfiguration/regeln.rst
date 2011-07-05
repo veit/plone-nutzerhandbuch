@@ -46,7 +46,7 @@ Gruppe
 Rolle
  Mit dieser Bedingung legen Sie fest, dass eine Aktion nur ausgeführt wird, wenn der Benutzer eine bestimmte Funktion hat.
 
-Aktion hinzugügen
+Aktion hinzufügen
 `````````````````
 
 Protokoll hinzufügen
