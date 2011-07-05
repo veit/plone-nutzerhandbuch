@@ -13,6 +13,7 @@ Nach der Installation können Verwalter der Website die Erweiterung für die Web
 
    easytemplate/index
    extrememanagement/index
+   linguaplone/index
    poi/index
    ploneformgen/index
 
