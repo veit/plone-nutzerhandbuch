@@ -21,7 +21,7 @@ Testen Sie WebDAV
 Sie können mit einem WebDAV-Client auf meine DemoSite zugreifen. Beachten Sie bitte, dass Sie auf die oberste Ebene zwar lesend, nicht jedoch schreibend zugreifen dürfen. Eigene Dateien können Sie im Verzeichnis ``/Members/autor`` hochladen und ändern.
 
 URL
- ``http://webdav.demosite.veit-schiele.de``
+ ``http://www.demosite.veit-schiele.de``
 Benutzername
  ``autor``
 Passowrt
