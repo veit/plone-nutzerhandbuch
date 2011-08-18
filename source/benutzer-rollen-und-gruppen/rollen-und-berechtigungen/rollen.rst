@@ -22,5 +22,13 @@ Jede Plone-Website kommt mit den folgenden Rollen:
    Redakteur
     Ein Redakteur darf Artikel veröffentlichen sodass sie von allen Benutzern der Website betrachtet werden können.
    Administrator
-    Die Rolle Administrator übernimmt u.a. die Benutzerverwaltung mit der Vergabe von Rollen an Nutzer oder Gruppen. Darüberhinaus kann er die grundlegende Struktur der Website ändern.
+    Die Rolle Administrator erlaubt alle grundlegenden Änderungen an der Website.
+   Site-Administrator
+    Die Rolle Site-Administrator hat dieselben Rechte der Rolle Administrator bis auf 
+
+    - die Verwendung des Wartung-Kontrollfeldes
+    - den Zugang zum Zope Management Interface (ZMI)
+    - das Hinzufügen und Entfernen von Produkten
+    - die Änderung des Aussehens
+    - die Änderung der Cache-Konfiguration
 
