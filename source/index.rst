@@ -1,20 +1,20 @@
-.. Plone-Nutzerhandbuch documentation master file, created by
+.. Plone-Benutzerhandbuch documentation master file, created by
    sphinx-quickstart on Mon Sep  6 13:40:49 2010.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-====================
-Plone-Nutzerhandbuch
-====================
+======================
+Plone-Benutzerhandbuch
+======================
 
 .. note::
-   Das Plone-Nutzerhandbuch ist auch als PDF verfügbar:  `plone-nutzerhandbuch.pdf <plone-nutzerhandbuch.pdf>`_
+   Das Plone-Benutzerhandbuch ist auch als PDF verfügbar:  `plone-nutzerhandbuch.pdf <plone-nutzerhandbuch.pdf>`_
 
 .. note::
-   Sie können das Plone-Nutzerhandbuch auch als Buildout-Projekt mit dem `Sphinx Documentation Generator <http://sphinx.pocoo.org/>`_ und den Sourcen anonym aus unserem SVN-Repository auschecken. Gerne können Sie sich auch am Plone-Nutzerhandbuch beteiligen. Weitere Information erhalten Sie unter :doc:`installation`.
+   Sie können das Plone-Benutzerhandbuch auch als Buildout-Projekt mit dem `Sphinx Documentation Generator <http://sphinx.pocoo.org/>`_ und den Sourcen anonym aus unserem SVN-Repository auschecken. Gerne können Sie sich auch am Plone-Benutzerhandbuch beteiligen. Weitere Information erhalten Sie unter :doc:`installation`.
 
 .. note::
-   Sie können das Plone-Nutzerhandbuch auch in Ihrer Plone-Site bereitstellen. Eine Anleitung zur Überführung der Inhalte in eine Plone-Site finden Sie unter :doc:`migration`.
+   Sie können das Plone-Benutzerhandbuch auch in Ihrer Plone-Site bereitstellen. Eine Anleitung zur Überführung der Inhalte in eine Plone-Site finden Sie unter :doc:`migration`.
 
 Inhalt:
 
