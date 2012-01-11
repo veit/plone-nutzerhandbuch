@@ -19,5 +19,5 @@ Wiki-Verhalten
 
 Entscheiden Sie, welche Artikeltypen sich wie Wiki-Inhalte verhalten.
 
-Der Haupttext von Artikeltypen, die hier aus Seite, Termin und Nachricht ausgewählt werden können, verhalten sich wie Wiki-Inhalte.i
+Der Haupttext von Artikeltypen, die hier aus Seite, Termin und Nachricht ausgewählt werden können, verhalten sich wie Wiki-Inhalte.
 
