@@ -10,6 +10,6 @@ Suchfeld
 Tabelle der übertragenen Rollen
  gibt einen Überblick darüber, welchen Personen und Gruppen welche Rollen zugewiesen worden sind.
 Berechtigungen von übergeordneten Ordnern übernehmen
- Ist diese Funktion aktiviert, werden die zugewiesenen Rollen aus übergeordneten Ebenen übernommen. Dabei werden übenrommene Rollen mit einem grünen Häckchen symbolisiert wohingegen ein Kreis mit drei roten Punkten darauf hindeutet, dass der Administrator diese Rolle für die gesamte Website zugewiesen hat.
+ Ist diese Funktion aktiviert, werden die zugewiesenen Rollen aus übergeordneten Ebenen übernommen. Dabei werden übenrommene Rollen mit einem grünen Häkchen symbolisiert wohingegen ein Kreis mit drei roten Punkten darauf hindeutet, dass der Administrator diese Rolle für die gesamte Website zugewiesen hat.
 
 
