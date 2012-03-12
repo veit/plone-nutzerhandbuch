@@ -58,5 +58,5 @@ Erstellen von Newslettern
    #. Klicken Sie auf *Test Newsletter*.
    #. Sofern die Mail im Postfach der *E-Mail-Adresse für Testzwecke* zufriedenstellend war, können Sie den *Absenden*-Button aktivieren und dann *Newsletter senden* klicken.
    #. Sobald Sie die Ausgabe verschickt haben, ändert sich der Status des Arbeitsablaufs auf *versendet* und die Ausgabe erscheint in der Ansicht des Newsletters unter *Ausgaben*.
-
+   #. Unveröffentlichte Ausgaben können Sie jederzeit im *Entwürfe*-Ordner des Newsletters einsehen.
 
