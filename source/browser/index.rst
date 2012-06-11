@@ -6,6 +6,7 @@ Browser
    :maxdepth: 1
 
    einleitung
+   kompatibilitaet
    cookies
    javascript
    textdarstellung
