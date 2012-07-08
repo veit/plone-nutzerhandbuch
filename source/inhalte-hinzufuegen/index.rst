@@ -33,5 +33,5 @@ Artikeltypen
    link
    termin
    nachricht
-   thema
+   kollektion
 
