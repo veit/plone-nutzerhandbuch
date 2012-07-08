@@ -10,7 +10,7 @@ Installation des Plone-Nutzerhandbuchs
     $ cd plone-nutzerhandbuch
 #. Installation des Sphinx Documentation Generator
    ::
-    $ python2.6 bootstrap
+    $ python2.7 bootstrap
     $ ./bin/buildout
 #. Erstellen der HTML-Dateien in ``plone-nutzerhandbuch/docs/html/``
    ::
