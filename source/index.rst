@@ -26,6 +26,7 @@ Inhalt:
    benutzer-rollen-und-gruppen/index
    inhalte-hinzufuegen/index
    inhalte-verwalten/index
+   suche
    portlets-verwalten/index
    visueller-editor-tinymce/index
    restructured-text/index
