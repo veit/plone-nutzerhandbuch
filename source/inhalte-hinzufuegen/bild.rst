@@ -2,17 +2,48 @@
 Bild
 ====
 
-Bilder können in Dokumente eingefügt werden.
+Bild hinzufügen
+===============
 
-Sofern Sie nichts anderes angeben und es nicht schon ein Bild mit demselben Namen gibt, wird der Dateiname der ursprünglichen Datei übernommen.
+Es gibt zwei verscheidene Möglichkeiten Bilder hinzuzufügen, zum einen 
+über das *Hinzufügen*-Menü, zum anderen über den `visuellen Editor 
+<../visueller-editor-tinymce>`_. An dieser Stelle wird nur die erste 
+Möglichkeite beschrieben:
 
-Die Beschreibung wird unter anderem bei der Anzeige von Suchergebnissen verwendet.
+.. figure:: 
+   bild-hinzufuegen.*
+   :alt: Screenshot des Hinzufügen-Menüs mit ausgewähltem Bild
 
-Die einzig notwendige Angabe ist der Ort, an dem die Datei liegt. Wenn Sie die 'Browse' -Taste klicken, erscheint eine Öffnen-Dialogbox, mit der Sie durch Ihre Verzeichnisse navigieren und die entsprechende Bilddatei auswählen können.
+Anschließend öffnet sich das folgende Formular:
 
-Die Eigenschaften von Bilddateien ermöglichen eine detaillierte Erschließung von Bildern und sollten daher sorgfältig angegeben werden. 
+.. figure:: 
+   bild-hinzufuegen_2.*
+   :alt: Screenshot des Hinzufügen-Menüs mit ausgewähltem Bild
 
-**Tip:** Eine Einführung zur Verschlagwortung von Bildern finden Sie unter Verschlagwortungsstrategien_.
+Titel
+ Aus dem Titel wird der Kurzname oder ID des Artikels gebildet.
 
-.. _Verschlagwortungsstrategien: http://www.veit-schiele.de/profil/artikel/verschlagwortungsstrategien
+ Wird kein Titel angegeben, behält das Bild üblicherweise seine ursprüngliche
+ ID bei.
+
+Beschreibung
+ Diese wird unter anderem bei der Anzeige von Suchergebnissen verwendet.
+
+Bild
+ Klicken Sie auf *Datei auswählen* um auf Ihrem lokalen Computer eine Bilddatei
+ zum Hochladen auszuwählen. 
+
+ Sie sollten die Bilder vor dem Auswählen für die Verwendung im Web
+ vorbereiten. Eine kurze Anleitung hierzu finden Sie in `Bilder optimieren
+ <bilder-optimieren.html>`_.
+
+ Nach dem Hochladen wird Ihnen dann eine Vorschau des Bildes angezeigt.
+
+Stichworte
+ Da Bilder nicht textuell erschlossen werden können, kommt den Stichworten eine
+ besondere Bedeutung zu. 
+
+ **Tip:** Eine Einführung zur Verschlagwortung von Bildern finden Sie unter
+ `Verschlagwortungsstrategien
+ <http://www.veit-schiele.de/profil/artikel/verschlagwortungsstrategien>`_.
 
