@@ -21,6 +21,7 @@ Konfiguration
    sprache
    suche
    textauszeichnung
+   theme-settings
    visueller-editor-tinymce
    wartung
    website
