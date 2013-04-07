@@ -28,10 +28,7 @@ Was ist neu im Plone-Nutzerhandbuch
 
 Folgende Kapitel sind neu hinzugekommen:
 
-- :doc:`erweiterungen/ploneformgen/index`
-- :doc:`erweiterungen/poi/index`
-- :doc:`portlets-verwalten/index`
-- :doc:`konfiguration/index`
+- :doc:`konfiguration/theme-settings`
 
 Weitere Handbücher
 ------------------
