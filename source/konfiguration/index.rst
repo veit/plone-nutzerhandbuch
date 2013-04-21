@@ -20,6 +20,7 @@ Konfiguration
    sicherheit
    sprache
    suche
+   syndizierung
    textauszeichnung
    theme-settings
    visueller-editor-tinymce

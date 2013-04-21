@@ -13,9 +13,10 @@ Im Suchformular können Sie gegebenenfalls Ihre Suche ändern.
 RSS-Feed
 ========
 
-Zudem erhalten Sie hier einen RSS-1.0-Feed angeboten, der Ihnen erlaubt, die
-Suchergebnisse zu abonnieren und somit über aktuelle Änderungen in den
-Suchergebnissen automatisch informiert zu werden.
+Alternativ zu den Suchergebnissen können Sie auch einen derjenigen Feeds abonnieren,
+der im Kontrollfeld :doc:`konfiguration/syndizierung`  angegeben wurde. Damit
+können Sie sich schnell über Änderungen in diesen Suchergebnissen informieren
+lassen.
 
 Trefferliste
 ============
