@@ -164,6 +164,12 @@ Servern unterbinden::
 
 Anschließend sollte der Mac neu gestartet werden. 
 
+Um bereits angelegte Dateien oder Ordner wieder zu entfernen, können Sie im 
+Terminal in das WebDAV-Verzeichnis wechseln und anschließend folgendes Kommando
+eingeben::
+
+    $ find . \(-name .DS_Store -or -name .TemporaryItems -or -name .Trashes -or -name ._* \) -exec rm -rf "{}" \; -prune
+
 WebDAV in Linux
 ---------------
 
