@@ -12,5 +12,4 @@ Persönliche Einstellungen
    uebersicht-der-aufgaben
    detaillierte-buchungen
    buchungen-pro-monat
-   persoenliche-einstellungen
 
