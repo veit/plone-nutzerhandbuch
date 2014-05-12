@@ -11,7 +11,6 @@ Es lassen sich auch eigene Schablonen zum Strukturieren der Inhalte erstellen.
 .. toctree::
    :maxdepth: 2
 
-   einfuehrung
    erstellen-von-newslettern
    abonnement-portlet-erstellen
    erstellen-von-schablonen
