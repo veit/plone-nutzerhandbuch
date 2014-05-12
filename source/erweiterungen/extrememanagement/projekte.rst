@@ -28,8 +28,8 @@ fertiggestellt
 
 In einem Projekt können Sie folgende Artikeltypen hinzufügen:
 
-- :doc:`Angebot <angebot>`
+- :doc:`Angebot <angebote>`
 - :doc:`Aufgabenverwaltung <../poi/index>`
-- :doc:`Zyklus <zyklus>`
-- :doc:`Anforderung (Story) <anforderung>`
+- :doc:`Zyklus <zyklen>`
+- :doc:`Anforderung (Story) <anforderungen>`
 
