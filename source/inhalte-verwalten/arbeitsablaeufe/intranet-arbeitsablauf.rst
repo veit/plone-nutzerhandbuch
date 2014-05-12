@@ -5,7 +5,40 @@ Intranet-Arbeitsablauf
 - Beim Intranet-Arbeitsablauf können Artikel nur für angemeldete Nutzer sichtbar sein.
 - Die möglichen Zustände sind: *Interner Entwurf*, *Zur Redaktion eingereicht*, *Intern veröffentlicht*, *Extern veröffentlicht* und *Privat*. 
 
-|Intranet-Arbeitsablauf|
+.. graphviz::
+
+    digraph "Intranet/Extranet Workflow" {
+        internally_published
+            [shape=box,label="Intern veröffentlicht\n(internally_published)",style="filled",fillcolor="#ffcc99"];
+        internal
+            [shape=box,label="Interner Entwurf\n(internal)",style="filled",fillcolor="#ffcc99"];
+        pending
+            [shape=box,label="Zur Redaktion eingereicht\n(wartend)",style="filled",fillcolor="#ffcc99"];
+        private
+            [shape=box,label="Privat\n(privat)",style="filled",fillcolor="#ffcc99"];
+        external
+            [shape=box,label="Extern sichtbar\n(external)",style="filled",fillcolor="#ffcc99"];
+        pending -> external
+            [label="Der Redakteur macht den Inhalt extern zugänglich.\n(publish_externally)"];
+        private -> internal
+            [label="Benuzter gibt Artikel als internen Entwurf frei.\n(show_internally)"];
+        internally_published -> internal
+            [label="Zurückweisen\n(ablehnen),\nBenutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen)"];
+        internal -> private
+            [label="Benutzer setzt Artikel auf privat\n(verstecken)"];
+        internal -> internally_published
+            [label="Der Redakteur macht den Inhalt intern zugänglich.\n(publish_internally)"];
+        pending -> internal
+            [label="Zurückweisen\n(ablehnen),\nBenutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen)"];
+        internally_published -> external
+            [label="Der Redakteur macht den Inhalt extern zugänglich.\n(publish_externally)"];
+        pending -> internally_published
+            [label="Der Redakteur macht den Inhalt intern zugänglich.\n(publish_internally)"];
+        internal -> pending
+            [label="Zur Veröffentlichung einreichen\n(einreichen)"];
+        external -> internal
+            [label="Benutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen)"];
+    }
 
 Der Intranet-Arbeitsablauf enthält folgende Stadien:
 
@@ -66,8 +99,4 @@ Der Intranet-Arbeitsablauf enthält folgende Stadien:
    Der Artikel kann von allen betrachtet werden. 
 
    .. image:: plone4-intranet-arbeitsablauf-status-extern-sichtbar.png
-
-.. |Intranet-Arbeitsablauf| image:: intranet-workflow.gif
-   :width: 400px
-   :target: ../../_images/intranet-workflow.gif
 

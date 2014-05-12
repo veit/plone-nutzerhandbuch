@@ -5,7 +5,27 @@ Einfacher Arbeitsablauf
 - Der einfache Arbeitsablauf ist geeignet für einfache Websites.
 - Er beginnt mit dem Status *privat*, danach kann ein Artikel *zur Redaktion vorlgelegt* oder direkt *veröffentlicht* werden.
 
-|Einfacher Arbeitsablauf|
+.. graphviz::
+
+    digraph "Simple Publication Workflow" {
+    pending
+        [shape=box,label="Zur Redaktion eingereicht\n(wartend)",style="filled",fillcolor="#ffcc99"];
+    # transition make_private from state pending is missing
+    private
+        [shape=box,label="Privat\n(privat)",style="filled",fillcolor="#ffcc99"];
+    published
+        [shape=box,label="Veröffentlicht\n(veröffentlicht)",style="filled",fillcolor="#ffcc99"];
+    private -> published
+        [label="Redakteur veröffentlicht Artikel\n(veröffentlichen)"];
+    published -> private
+        [label="Benutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen),\nDer Redakteur weist den Inhalt zur Überarbeitung zurück.\n(ablehnen)"];
+    private -> pending
+        [label="Benutzer reicht Artikel zur Veröffentlichung ein.\n(einreichen)"];
+    pending -> published
+        [label="Redakteur veröffentlicht Artikel\n(veröffentlichen)"];
+    pending -> private
+        [label="Der Redakteur weist den Inhalt zur Überarbeitung zurück.\n(ablehnen),\nBenutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen)"];
+    }
 
 Der einfache Arbeitsablauf besteht aus drei Stadien:
 
@@ -50,8 +70,5 @@ Der einfache Arbeitsablauf besteht aus drei Stadien:
 
 **Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
 
-.. |Einfacher Arbeitsablauf| image:: simple_publication_workflow.gif
-   :width: 400px
-   :target: ../../_images/simple_publication_workflow.gif
 .. _`Bedienelemente`: bedienelemente
 

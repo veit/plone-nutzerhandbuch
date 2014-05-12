@@ -2,9 +2,34 @@
 Stadien und Übergänge der Poi-Aufgabenverwaltung
 ================================================
 
-|Stadien und Übergänge des Ticketsystems|
+.. graphviz::
 
-.. |Stadien und Übergänge des Ticketsystems| image:: poi_tracker_workflow.gif
+    digraph "poi_tracker_workflow" {
+        restricted
+            [shape=box,label="Only members can submit\n(restricted)",style="filled",fillcolor="#ffcc99"];
+        protected
+            [shape=box,label="Protected against anonymous views\n(protected)",style="filled",fillcolor="#ffcc99"];
+        open
+            [shape=box,label="Offen für neue Problemstellungen.\n(offen)",style="filled",fillcolor="#ffcc99"];
+        closed
+            [shape=box,label="Keine neuen Problemstellungen einzugeben.\n(closed)",style="filled",fillcolor="#ffcc99"];
+        protected -> restricted
+            [label="Restrict tracker\n(restrict)"];
+        protected -> open
+            [label="Öffne Tracker\n(offen)"];
+        restricted -> closed
+            [label="Schließen des Trackers\n(close)"];
+        open -> closed
+            [label="Schließen des Trackers\n(close)"];
+        restricted -> open
+            [label="Öffne Tracker\n(offen)"];
+        protected -> closed
+            [label="Schließen des Trackers\n(close)"];
+        closed -> open
+            [label="Öffne Tracker\n(offen)"];
+        restricted -> protected
+            [label="Protected tracker against anonymous views\n(protect)"];
+    }
 
 Durch diese Stadien lässt sich festlegen, wer Aufgaben sehen, bearbeiten oder erstellen darf. Im Einzelnen:
 

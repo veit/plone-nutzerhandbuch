@@ -6,7 +6,34 @@ Community-Arbeitsablauf
 - Inhalte sollten zur Redaktion eingereicht werden, damit sie z.B. in Termine und Nachrichten erscheinen.
 - Auch während der Artikel der Redaktion zur Prüfung vorliegt, kann er von jedem gelesen werden.
 
-|Community-Arbeitsablauf|
+.. graphviz::
+
+    digraph "Community Workflow" {
+        visible
+            [shape=box,label="Öffentlicher Entwurf\n(sichtbar)",style="filled",fillcolor="#ffcc99"];
+        pending
+            [shape=box,label="Zur Redaktion eingereicht\n(wartend)",style="filled",fillcolor="#ffcc99"];
+        private
+            [shape=box,label="Privat\n(privat)",style="filled",fillcolor="#ffcc99"];
+        published
+            [shape=box,label="Veröffentlicht\n(veröffentlicht)",style="filled",fillcolor="#ffcc99"];
+        private -> visible
+            [label="Benuzter gibt Artikel als öffentlichen Entwurf frei.\n(zeigen)"];
+        pending -> private
+            [label="Benutzer setzt Artikel auf privat\n(verstecken)"];
+        pending -> published
+            [label="Redakteur veröffentlicht Artikel\n(veröffentlichen)"];
+        published -> visible
+            [label="Der Redakteur weist den Inhalt zur Überarbeitung zurück.\n(ablehnen),\nBenutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen)"];
+        visible -> pending
+            [label="Benutzer reicht Artikel zur Veröffentlichung ein.\n(einreichen)"];
+        pending -> visible
+            [label="Der Redakteur weist den Inhalt zur Überarbeitung zurück.\n(ablehnen),\nBenutzer zieht Veröffentlichungsgesuch zurück\n(zurückziehen)"];
+        visible -> published
+            [label="Redakteur veröffentlicht Artikel\n(veröffentlichen)"];
+        visible -> private
+            [label="Benutzer setzt Artikel auf privat\n(verstecken)"];
+    }
 
 Der Community-Arbeitsablauf hat folgende Stadien:
 
@@ -47,8 +74,4 @@ Der Community-Arbeitsablauf hat folgende Stadien:
    .. image:: plone4-artikelstatus-veroeffentlicht.png
 
 **Anmerkung:** Die Option *Erweitert…* wird in  :doc:`bedienelemente` beschrieben.
-
-.. |Community-Arbeitsablauf| image:: plone_workflow.gif
-   :width: 400px
-   :target: ../../_images/plone_workflow.gif
 
