@@ -10,7 +10,6 @@ easytemplate
    :maxdepth: 2
 
    einfuehrung
-   easytemplate-installation
    elemente
    variablen-und-funktionen
    weitere-informationen
