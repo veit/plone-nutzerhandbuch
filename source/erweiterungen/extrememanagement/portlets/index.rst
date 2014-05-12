@@ -8,4 +8,5 @@ Portlets
    projektlinks/index
    projektmanagement/index
    persoenliche-einstellungen/index
+   iterationen/index
 
