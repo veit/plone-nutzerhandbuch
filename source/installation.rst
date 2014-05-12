@@ -4,7 +4,7 @@ Installation des Plone-Nutzerhandbuchs
 
 #. Auschecken des Projekts
    ::
-    $ svn co https://dev.veit-schiele.de/svn/plone-nutzerhandbuch/trunk/ plone-nutzerhandbuch
+    $ git clone https://github.com/veit/plone-nutzerhandbuch.git
 #. Wechseln in das Verzeichnis
    ::
     $ cd plone-nutzerhandbuch
