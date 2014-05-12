@@ -9,7 +9,6 @@ Projektmanagement
 .. toctree::
    :maxdepth: 3
 
-   project-management
    personal
    abzurechnen
    in-arbeit
