@@ -30,3 +30,8 @@ Die Suchergebnisse lassen sich noch weiter einschränken:
    suchformular.*
    :alt: Screenshot der Trefferliste
 
+.. note::
+
+   Die Suche lässt sich erweitern um Suchoperatoren mit
+   :doc:`erweiterungen/textindexng/index`.
+
