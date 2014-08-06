@@ -147,13 +147,13 @@ Hinweise
 
 .. note::
 
-    TODO: Diese Box enthält einen Hinweis!
+    Diese Box enthält einen Hinweis!
 
 ::
 
     .. note::
 
-        TODO: Diese Box enthält einen Hinweis! 
+        Diese Box enthält einen Hinweis! 
 
 Tipps
 `````
@@ -166,4 +166,14 @@ Tipps
     .. tip::
         Diese Box enthält einen Tipp!
 
+ToDo
+`````
+
+.. todo::
+    Diese Box enthält ein To-do!
+
+::
+
+    .. todo::
+        Diese Box enthält ein To-do!
 
