@@ -7,5 +7,4 @@ epub:
 
 pdf:
 	bin/sphinx-build -b singlehtml source docs
-	cp styles/princexml.css docs/_static/plone.css
-	cd docs; prince index.html html/plone-nutzerhandbuch.pdf
+	cd docs; pdfreactor -s pdfreactor.css -a links -a bookmarks -v debug index.html plone-nutzerhandbuch.pdf
