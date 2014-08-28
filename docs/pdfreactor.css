@@ -1,0 +1,64 @@
+@page {
+    size: a4;
+    counter-increment: page;
+
+    @bottom-center {
+        content: counter(page);
+    }
+}
+
+h1 {
+   counter-increment: c1;
+   counter-reset: c2;
+}
+
+h2 {
+   counter-increment: c2;
+   counter-reset: c3;
+   page-break-before: always;
+}
+
+h3 {
+   counter-increment: c3;
+   counter-reset: c4;
+}
+
+h4 {
+   counter-increment: c4;
+   counter-reset: c5;
+}
+
+h5 {
+   counter-increment: c5;
+   counter-reset: c6;
+}
+
+h2::before {
+    content: counter(c2) " "; 
+}
+
+h3::before {
+    content: counter(c2) "." counter(c3) " "; 
+}
+
+h4::before {
+    content: counter(c2) "." counter(c3) "." counter(c4) " "; 
+}
+
+h5::before {
+    content: counter(c2) "." counter(c3) "." counter(c4) "." counter(c5) " "; 
+}
+
+body {
+    background: none;
+    background-image: none;
+}
+
+p {
+    hyphens: auto;
+    text-align: justify;
+}
+
+#index-und-suche {
+    display: none;
+}
