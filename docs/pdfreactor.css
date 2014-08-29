@@ -56,9 +56,16 @@ body {
 
 p {
     hyphens: auto;
+    hyphenate-before: 4;
+    hyphenate-after: 4;
     text-align: justify;
 }
 
 #index-und-suche {
     display: none;
+}
+
+p {
+    margin-bottom: 0.5em;
+    padding-bottom: 0;
 }
