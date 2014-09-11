@@ -29,6 +29,14 @@ Zu den folgenden Bedingungen
 
 Plone und das Plone-Logo sind eingetragene Warenzeichen der Plone Foundation. Alle anderen verwendeten Warenzeichen befinden sich im Besitz ihrer jeweiligen Eigentümer.
 
+
+Danksagungen
+------------
+
+Die PDF Version des Plone-Nutzerhandbuchs wurde erzeugt mit `PDFreactor 7`_ welches freundlicherweise von `RealObjects`_ bereitgestellt wurde. 
+
 .. _`kontakt@veit-schiele.de`: mailto:kontakt@veit-schiele.de
 .. _`Creative-Commons-Lizenz Namensnennung-Nicht-kommerziell-Weitergabe unter gleichen Bedingungen 2.0 Deutschland`: http://creativecommons.org/licenses/by-nc-sa/2.0/de/
 
+.. _`PDFreactor 7`: http://www.pdfreactor.com
+.. _`RealObjects`: http://realobjects.com
