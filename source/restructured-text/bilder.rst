@@ -6,13 +6,13 @@ Dabei haben Sie die Möglichkeit, zwischen verschiedenen Bildgrößen zu wählen
 
 |mini| |thumb| |tile| |icon| |listing|
 
-.. |large| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_large
-.. |preview| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_preview
-.. |mini| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_mini
-.. |thumb| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_thumb
-.. |tile| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_tile
-.. |icon| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_icon
-.. |listing| image:: http://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_listing
+.. |large| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_large
+.. |preview| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_preview
+.. |mini| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_mini
+.. |thumb| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_thumb
+.. |tile| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_tile
+.. |icon| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_icon
+.. |listing| image:: https://www.veit-schiele.de/profil/artikel/web-anwendungen-mit-zope/smiley.gif/image_listing
 
 Neben dem Original sind folgende Größen verfügbar:
 
