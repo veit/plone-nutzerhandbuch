@@ -16,14 +16,18 @@ x *Website-Administrator* oder *Verwalter* innehaben.
    kollektion-hinzufuegen.*
    :alt: Screenshot des Hinzufügen-Menüs mit ausgewählter Kollektion
 
+   Hinzufügen-Menü mit ausgewählter Kollektion
+
 Anschließend erhalten Sie folgendes Formular:
 
 .. figure:: 
    kollektion-hinzufuegen_2.*
    :alt: Screenshot des Formulars Kollektion hinzufügen
 
-Unter Titel und Beschreibung sind die Felder für die Suche, deren Sortierung
-und die Vorschau angegeben. 
+   Formular Kollektion hinzufügen
+
+   Unter Titel und Beschreibung sind die Felder für die Suche, deren Sortierung
+   und die Vorschau angegeben. 
 
 Sucbegriffe
 -----------
@@ -41,6 +45,8 @@ Folgende Suchabfragen sind möglich:
 .. figure:: 
    suchbegriff-auswaehlen-datum.*
    :alt: Screenshot beim Auswählen eines Datums als Suchbegriff
+
+   Auswählen eines Datums als Suchbegriff
 
 Folgende Auswahlmöglichkeiten werden angeboten:
 
@@ -74,6 +80,8 @@ Erstellungsdatum
    suchbegriff-auswaehlen-text.*
    :alt: Screenshot beim Auswählen von Text als Suchbegriff
 
+   Auswählen von Text als Suchbegriff
+
 Je nach Feldern, in dem gesucht werden soll, wird eine Zeichenkette angegeben
 oder aus einer Liste ausgewählt 
 
@@ -92,6 +100,8 @@ Stichwort
 .. figure:: 
    suchbegriff-auswaehlen-metaangabe.*
    :alt: Screenshot beim Auswählen der Metainformation Artikeltyp als Suchbegriff
+
+   Auswählen der Metainformation Artikeltyp als Suchbegriff
 
 Je nach den Metainformationen, in denen gesucht werden soll, können
 unterschiedliche Angaben gemacht werden:
