@@ -1,9 +1,15 @@
 @page {
     size: a4;
+    margin: 2.5cm;
     counter-increment: page;
+    font-family: Arial, Sans-Serif;
 
     @bottom-center {
         content: counter(page);
+    }
+
+    @top-center {
+        content: "Plone Benutzerhandbuch";
     }
 }
 
@@ -72,3 +78,15 @@ p {
     padding-bottom: 0;
 }
 
+
+/* Keep <dt> + <dd> pairs together */
+
+dt {
+    page-break-after: avoid;
+}
+
+dd {
+    page-break-before: avoid;
+    margin-left: 2em;
+    padding: 0;
+}

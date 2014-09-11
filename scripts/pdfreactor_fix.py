@@ -13,6 +13,10 @@ def main():
         if node.text == u'\xb6':
             node.text = u''
 
+    # inject lang=de
+    body = root.find('body')
+    body.attrib['lang'] = 'de'
+
     # remove "Inhalt:"
     nodes = root.xpath('//*[text()="Inhalt:"]')
     if nodes:
