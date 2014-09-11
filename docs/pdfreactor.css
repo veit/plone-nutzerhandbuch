@@ -67,10 +67,15 @@ body {
 }
 
 p {
+    text-align: justify;
+}
+
+li,
+dd,
+p {
     hyphens: auto;
     hyphenate-before: 4;
     hyphenate-after: 4;
-    text-align: justify;
 }
 
 .wy-breadcrumbs,
@@ -88,6 +93,7 @@ p {
 
 dt {
     page-break-after: avoid;
+    font-weight: bold;
 }
 
 dd {
