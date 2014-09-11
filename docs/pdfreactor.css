@@ -10,6 +10,8 @@
 
     @top-center {
         content: "Plone Benutzerhandbuch";
+        font-size: 1.25em;
+        font-weight: bold;
     }
 }
 
