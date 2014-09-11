@@ -49,9 +49,10 @@ h5::before {
     content: counter(c2) "." counter(c3) "." counter(c4) "." counter(c5) " "; 
 }
 
+.wy-nav-content-wrap,
 body {
-    background: none;
-    background-image: none;
+    background: #fff !important;
+    background-image: none !important;
 }
 
 p {
@@ -61,6 +62,7 @@ p {
     text-align: justify;
 }
 
+.wy-breadcrumbs,
 #index-und-suche {
     display: none;
 }
@@ -69,3 +71,4 @@ p {
     margin-bottom: 0.5em;
     padding-bottom: 0;
 }
+

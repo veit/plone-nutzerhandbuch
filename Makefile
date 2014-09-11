@@ -6,6 +6,6 @@ epub:
 	cd build; ebook-convert index.html plone-nutzerhandbuch.epub --use-auto-toc
 
 pdf:
-#	bin/sphinx-build -b singlehtml source docs
-	bin/py scripts/pdfreactor_fix.py docs/index.html; 
+	bin/sphinx-build -b singlehtml source docs
+	bin/py scripts/pdfreactor_fix.py docs/index.html
 	cd docs; pdfreactor --javascript -s pdfreactor.css -a links -a bookmarks -v debug index.html.out ../build/plone-nutzerhandbuch.pdf
