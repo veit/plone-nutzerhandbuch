@@ -105,3 +105,10 @@ li {
     margin-left: 2em;
     padding: 0;
 }
+
+/* Avoid page breaks inside .figure environment */
+div.figure {
+    page-break-inside: avoid;
+}
+
+
