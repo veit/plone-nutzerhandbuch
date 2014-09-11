@@ -1,6 +1,7 @@
 import sys                                    
 import uuid
 import lxml.html
+from lxml.etree import Element
 
 
 def main():
@@ -16,6 +17,15 @@ def main():
     # inject lang=de
     body = root.find('body')
     body.attrib['lang'] = 'de'
+
+    # inject onload attribute and <script> tag for loading JS file
+
+    head = root.find('head')
+    script = Element('script')
+    script.attrib['src'] = 'pdfreactor.js'
+    head.append(script)
+
+    body.attrib['onload'] = 'init()'
 
     # fix href="index.html#...." links
     for node in root.xpath('//a'):
