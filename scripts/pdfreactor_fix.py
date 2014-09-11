@@ -15,6 +15,15 @@ def main():
             node.text = u''
 
     related = root.xpath("//div[@class='related']")
+    for r in related or ():
+        r.getparent().remove(r)
+
+    related = root.xpath("//div[@id='index-und-suche']")
+    if related:
+        related = related[0]
+        related.getparent().remove(related)
+
+    related = root.xpath("//div[@class='sphinxsidebar']")
     if related:
         related = related[0]
         related.getparent().remove(related)
