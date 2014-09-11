@@ -10,6 +10,8 @@
 
     @top-center {
         content: "Plone Benutzerhandbuch";
+        font-size: 1.25em;
+        font-weight: bold;
     }
 }
 
@@ -78,6 +80,7 @@ p {
     hyphenate-after: 4;
 }
 
+div.related,
 .wy-breadcrumbs,
 #index-und-suche {
     display: none;
@@ -114,8 +117,27 @@ li {
 }
 
 /* Avoid page breaks inside .figure environment */
+
 div.figure {
     page-break-inside: avoid;
 }
 
+div.ro-toc-level-1 a {
+    font-weight: bold;
+}
 
+div.ro-toc-level-1 a::before {
+    content: target-counter(ro-attr(href url), c2) " ";
+}
+
+div.ro-toc-level-2 a::before {
+    content: target-counter(ro-attr(href url), c2) "." target-counter(ro-attr(href url), c3) " ";
+}
+
+div.ro-toc-level-3 a::before {
+    content: target-counter(ro-attr(href url), c2) "." target-counter(ro-attr(href url), c3) "." target-counter(ro-attr(href url), c4) " ";
+}
+
+div.ro-toc-level-4 a::before {
+    content: target-counter(ro-attr(href url), c2) "." target-counter(ro-attr(href url), c3) "." target-counter(ro-attr(href url), c4) "." target-counter(ro-attr(href url), c5) " ";
+}
