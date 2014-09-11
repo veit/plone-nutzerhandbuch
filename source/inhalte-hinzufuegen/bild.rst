@@ -45,5 +45,5 @@ Stichworte
 
  **Tip:** Eine Einführung zur Verschlagwortung von Bildern finden Sie unter
  `Verschlagwortungsstrategien
- <http://www.veit-schiele.de/profil/artikel/verschlagwortungsstrategien>`_.
+ <https://www.veit-schiele.de/profil/artikel/verschlagwortungsstrategien>`_.
 

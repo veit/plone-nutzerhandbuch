@@ -10,7 +10,7 @@ Bilder können einfach in andere Dokumente eingebunden werden.
 
 Sie können so eingebunden werden::
 
- "Veit Schiele":img:http://www.veit-schiele.de/logo.gif
+ "Veit Schiele":img:https://www.veit-schiele.de/logo.png
 
 Dabei ist der Text in ``""`` eine alternative Anzeige in Textbrowsern.
 
