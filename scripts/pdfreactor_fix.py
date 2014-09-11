@@ -17,6 +17,14 @@ def main():
     body = root.find('body')
     body.attrib['lang'] = 'de'
 
+    # fix href="index.html#...." links
+    for node in root.xpath('//a'):
+        if 'href' in node.attrib:
+            href= node.attrib['href']
+            if href.startswith('index.html#'):
+                href = href.replace('index.html#', '#')
+                node.attrib['href'] = href
+
     # remove "Inhalt:"
     nodes = root.xpath('//*[text()="Inhalt:"]')
     if nodes:
