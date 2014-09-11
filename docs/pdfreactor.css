@@ -16,27 +16,32 @@
 h1 {
    counter-increment: c1;
    counter-reset: c2;
+   page-break-after: avoid;
 }
 
 h2 {
    counter-increment: c2;
    counter-reset: c3;
    page-break-before: always;
+   page-break-after: avoid;
 }
 
 h3 {
    counter-increment: c3;
    counter-reset: c4;
+   page-break-after: avoid;
 }
 
 h4 {
    counter-increment: c4;
    counter-reset: c5;
+   page-break-after: avoid;
 }
 
 h5 {
    counter-increment: c5;
    counter-reset: c6;
+   page-break-after: avoid;
 }
 
 h2::before {
@@ -86,6 +91,16 @@ dt {
 }
 
 dd {
+    page-break-before: avoid;
+    margin-left: 2em;
+    padding: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
     page-break-before: avoid;
     margin-left: 2em;
     padding: 0;
