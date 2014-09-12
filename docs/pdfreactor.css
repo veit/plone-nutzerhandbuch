@@ -1,8 +1,14 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(OpenSans-Regular.ttf);
+}
+
+
 @page {
     size: a4;
     margin: 2.5cm;
     counter-increment: page;
-    font-family: Arial, Sans-Serif;
+    font-family: OpenSans;
 
     @bottom-center {
         content: counter(page);
@@ -13,6 +19,11 @@
         font-size: 1.25em;
         font-weight: bold;
     }
+}
+
+* {
+    font-family: OpenSans !important;
+    font-size: 8pt;
 }
 
 h1 {
