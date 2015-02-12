@@ -8,4 +8,4 @@ epub:
 pdf:
 	bin/sphinx-build -c source/conf-pdf -b singlehtml source docs
 	bin/py scripts/pdfreactor_fix.py docs/index.html
-	cd docs; pdfreactor --javascript -s pdfreactor.css -a links -a bookmarks -v debug --addlog index.html.out ../build/plone-nutzerhandbuch.pdf
+	cd docs; pdfreactor --javascript -s pdfreactor.css -a links -a bookmarks -v info index.html.out ../build/plone-nutzerhandbuch.pdf

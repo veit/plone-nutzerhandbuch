@@ -1,16 +1,44 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url(OpenSans-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url(OpenSans-Italic.ttf);
+    font-style: italic;
+}
+
+
 @page {
     size: a4;
     margin: 2.5cm;
     counter-increment: page;
-    font-family: Arial, Sans-Serif;
+    font-family: OpenSans;
 
     @bottom-center {
+        font-family: OpenSans;
         content: counter(page);
     }
 
     @top-center {
         content: "Plone Benutzerhandbuch";
+        font-family: OpenSans;
+        font-size: 1.25em;
+        font-weight: bold;
     }
+}
+
+* {
+    font-family: OpenSans !important;
+    font-size: 8pt;
+    line-height: 1.2em;
 }
 
 h1 {
@@ -78,6 +106,7 @@ p {
     hyphenate-after: 4;
 }
 
+div.related,
 .wy-breadcrumbs,
 #index-und-suche {
     display: none;
@@ -114,8 +143,31 @@ li {
 }
 
 /* Avoid page breaks inside .figure environment */
+
 div.figure {
     page-break-inside: avoid;
 }
 
+div.ro-toc-level-1 {
+    margin-top: 1em;
+}
 
+div.ro-toc-level-1 a {
+    font-weight: bold;
+}
+
+div.ro-toc-level-1 a::before {
+    content: target-counter(ro-attr(href url), c2) " ";
+}
+
+div.ro-toc-level-2 a::before {
+    content: target-counter(ro-attr(href url), c2) "." target-counter(ro-attr(href url), c3) " ";
+}
+
+div.ro-toc-level-3 a::before {
+    content: target-counter(ro-attr(href url), c2) "." target-counter(ro-attr(href url), c3) "." target-counter(ro-attr(href url), c4) " ";
+}
+
+div.ro-toc-level-4 a::before {
+    content: target-counter(ro-attr(href url), c2) "." target-counter(ro-attr(href url), c3) "." target-counter(ro-attr(href url), c4) "." target-counter(ro-attr(href url), c5) " ";
+}
