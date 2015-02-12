@@ -17,4 +17,5 @@ PloneFormGen
    dynamische-standardwerte
    im-und-export
    erstellen-mehrseitiger-formulare
+   erweiterungen/index
 
