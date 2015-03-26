@@ -37,13 +37,13 @@ Dies ist ein Beispieltext für das Ziel eines internen Links.
 Fußnoten
 ========
 
-Fußnoten wie diese [#]_ werden so geschreiben:
+Fußnoten wie diese [#]_ werden so geschrieben:
 
 .. [#] Automatisch nummerierte Fußnote.
 
 ::
 
- Fußnoten wie diese [#]_ werden so geschreiben:
+ Fußnoten wie diese [#]_ werden so geschrieben:
 
  .. [#] Automatisch nummerierte Fußnote.
 

@@ -45,7 +45,7 @@ hingegen setzen ein Zeichen mit einem anschließenden Punkt voraus z.B. ``#.``::
 Definitionslisten
 -----------------
 
-Während der zu definierende Begriff als einzeilige Phrase geschreiben wird kann die Definition über mehrere Absätze gehen, z.B.::
+Während der zu definierende Begriff als einzeilige Phrase geschrieben wird kann die Definition über mehrere Absätze gehen, z.B.::
 
  Begriff
   Definition
