@@ -8,6 +8,10 @@ Wenn Sie z.B. eine Seite, einen Termin oder eine Nachricht bearbeiten, können S
 
 |TinyMCE|
 
+.. |TinyMCE| image:: tinymce.png
+   :width: 400px
+   :target: ../_images/tinymce.png
+
 Standardfunktionen
 ------------------
 
@@ -115,6 +119,10 @@ Folgende Funktionen bringt TinyMCE üblicherweise mit:
  Mit Ankern können Sie innerhalb Ihres Artikels Punkte markieren, die mit einem Verweis direkt angesprungen werden können:
 
  |Anker-Fenster|
+
+.. |Anker-Fenster| image:: plone4-tinymce-anker-setzen.png
+   :width: 400px
+   :target: ../_images/plone4-tinymce-anker-setzen.png
 
  Beachten Sie bitte, das der grafische Editor für die Formatvorlagen *Heading* und *Subheading* bereits immer schon Anker einfügt.
  Um auf einen solchen Anker zu verweisen, markieren Sie einen text und klicken anschließend auf das *Link*-Icon. In dem sich nun öffnenden Fenster erhalten Sie in der linken Spalte den Eintrag *Anchors*, der Ihnen dann in der mittleren Spalte eine Liste der verfügbaren Anker dieses Artikels anzeigt:
@@ -377,9 +385,6 @@ Vorlagen
 |Inhalte aus Vorlagen einfügen|
  Mit einer Erweiterung lassen sich auch Textbausteine einfach einfügen. Diese Textbausteine müssen zuvor als normale Seiten erstellt worden sein. Es ist so also auch möglich, Bilder, Links auf Dateien etc. als Textbausteine abzuspeichern.
 
-.. |TinyMCE| image:: tinymce.png
-   :width: 400px
-   :target: ../_images/tinymce.png
 .. |Speichern| image:: speichern.png
 .. |Fett| image:: fett.png
 .. |Kursiv| image:: kursiv.png
@@ -398,9 +403,6 @@ Vorlagen
 .. |Link einfügen/bearbeiten allgemein| image:: plone4-tinymce-link-einfuegen.png
 .. |Link entfernen| image:: link-entfernen.png
 .. |Anker einfügen/verändern| image:: anker.png
-.. |Anker-Fenster| image:: plone4-tinymce-anker-setzen.png
-   :width: 400px
-   :target: ../_images/plone4-tinymce-anker-setzen.png
 .. |Anker einfügen| image:: plone4-tinymce-anker-waehlen-und-verlinken.png
    :width: 400px
    :target: ../_images/plone4-tinymce-anker-waehlen-und-verlinken.png
