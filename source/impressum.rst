@@ -9,7 +9,7 @@ Plone-Nutzerhandbuch (Version 4.1)
 | Veit Schiele
 | Birnbaumweg 10
 | D–79115 Freiburg im Breisgau
-| E-Mail: `kontakt@veit-schiele.de`_
+| E-Mail: `kontakt@veit-schiele.de <mailto:kontakt@veit-schiele.de>`_
 
 Lizenzbestimmungen
 ------------------
@@ -45,14 +45,3 @@ Keine weiteren Einschränkungen
     erlaubt.
 
 Plone und das Plone-Logo sind eingetragene Warenzeichen der Plone Foundation. Alle anderen verwendeten Warenzeichen befinden sich im Besitz ihrer jeweiligen Eigentümer.
-
-
-Danksagungen
-------------
-
-Die PDF Version des Plone-Nutzerhandbuchs wurde erzeugt mit `PDFreactor 7`_ welches freundlicherweise von `RealObjects`_ bereitgestellt wurde. 
-
-.. _`kontakt@veit-schiele.de`: mailto:kontakt@veit-schiele.de
-
-.. _`PDFreactor 7`: http://www.pdfreactor.com
-.. _`RealObjects`: http://realobjects.com
