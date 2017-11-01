@@ -4,11 +4,11 @@ Impressum
 
 Plone-Nutzerhandbuch (Version 4.1)
 
-© Copyright 2010–2012, Veit Schiele
+© Copyright 2010–2017, Veit Schiele
 
 | Veit Schiele
-| Mansteinstr. 7
-| D–10783 Berlin
+| Birnbaumweg 10
+| D–79115 Freiburg im Breisgau
 | E-Mail: `kontakt@veit-schiele.de`_
 
 Lizenzbestimmungen
