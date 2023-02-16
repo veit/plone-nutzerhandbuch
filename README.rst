@@ -18,9 +18,6 @@ Status
 .. image:: https://pyup.io/repos/github/veit/plone-nutzerhandbuch/shield.svg
    :alt: Pyup
    :target: https://pyup.io/repos/github/veit/plone-nutzerhandbuch/
-.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.4147287.svg
-   :alt: DOI
-   :target: https://zenodo.org/badge/latestdoi/199994535
 
 .. first-steps::
 
