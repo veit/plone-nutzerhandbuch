@@ -3,17 +3,29 @@ Installation des Plone-Nutzerhandbuchs
 ======================================
 
 #. Auschecken des Projekts
-   ::
+
+   .. code-block:: console
+
     $ git clone https://github.com/veit/plone-nutzerhandbuch.git
+
 #. Wechseln in das Verzeichnis
-   ::
+
+   .. code-block:: console
+
     $ cd plone-nutzerhandbuch
+
 #. Installation des Sphinx Documentation Generator
-   ::
-    $ python2.7 bootstrap.py
-    $ ./bin/buildout
+
+   .. code-block:: console
+
+    $ python3 -m venv .
+    $ source bin/activate
+    $ python -m pip install -r docs/requirements.txt
+
 #. Erstellen der HTML-Dateien in ``plone-nutzerhandbuch/docs/html/``
-   ::
+
+   .. code-block:: console
+
     $ cd docs/
     $ make html
 
