@@ -1,2 +1,2 @@
-# -c constraints.txt
+-c constraints.txt
 sphinx-inline-tabs

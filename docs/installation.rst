@@ -20,6 +20,7 @@ Installation des Plone-Nutzungshandbuchs
 
     $ python3 -m venv .
     $ source bin/activate
+    $ python -m pip install -r docs/requirements.txt
 
 #. Erstellen der HTML-Dateien in ``plone-nutzerhandbuch/docs/html/``
 
@@ -34,6 +35,10 @@ Falls Sie die Sourcen für Ihre Zwecke anpassen möchten, beachten Sie bitte, da
 
 .. _`reStructuredText Primer`: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 .. _`ReStructuredText`: https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
+
+In `collective.developermanual`_ steht auch ein Skript bereit, das mit `collective.transmogrify`_ die generierten HTML-Seiten von Sphinx einfach in eine Plone-Site integriert.
+
+.. _`collective.developermanual`: https://svn.plone.org/svn/collective/collective.developermanual/trunk/
 
 Beteiligen Sie sich an der Dokumentation
 ========================================

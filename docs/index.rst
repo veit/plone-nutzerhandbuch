@@ -1,14 +1,17 @@
-.. Plone-Nutzungsdokumentation, created by
+.. Plone-Benutzerhandbuch documentation master file, created by
    sphinx-quickstart on Mon Sep  6 13:40:49 2010.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-======================
-Plone-Nutzungshandbuch
+Plone-Benutzerhandbuch
 ======================
 
 .. note::
-   Sie können die Plone-Nutzungsdokumentation auch mit dem `Sphinx Documentation Generator <https://www.sphinx-doc.org/>`_ und den Sourcen Repository auschecken. Gerne können Sie sich auch an der Plone-Nutzungsdokumentation beteiligen. Weitere Information erhalten Sie unter :doc:`installation`.
+   Sie können das Plone-Benutzerhandbuch auch als Buildout-Projekt mit dem
+   `Sphinx Documentation Generator <https://www.sphinx-doc.org/>`_ und den
+   Sourcen anonym aus unserem SVN-Repository auschecken. Gerne können Sie sich
+   auch am Plone-Benutzerhandbuch beteiligen. Weitere Information erhalten Sie
+   unter :doc:`installation`.
 
 Inhalt:
 

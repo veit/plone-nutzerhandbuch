@@ -17,4 +17,3 @@ Nach der Installation können Verwalter der Website die Erweiterung für die Web
    linguaplone/index
    poi/index
    ploneformgen/index
-   textindexng/index
