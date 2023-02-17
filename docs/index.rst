@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===========================
-Plone-Nutzungsdokumentation
-===========================
+======================
+Plone-Nutzungshandbuch
+======================
 
 .. note::
    Sie können die Plone-Nutzungsdokumentation auch mit dem `Sphinx Documentation Generator <https://www.sphinx-doc.org/>`_ und den Sourcen Repository auschecken. Gerne können Sie sich auch an der Plone-Nutzungsdokumentation beteiligen. Weitere Information erhalten Sie unter :doc:`installation`.
