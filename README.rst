@@ -11,13 +11,7 @@ Status
    :target: https://github.com/veit/plone-nutzerhandbuch/graphs/contributors
 .. image:: https://img.shields.io/github/license/veit/plone-nutzerhandbuch.svg
    :alt: License
-   :target: https://github.com/veit/plone-nutzerhandbuch/blob/master/LICENSE
-.. image:: https://readthedocs.org/projects/plone-nutzerhandbuch/badge/?version=latest
-   :alt: Docs
-   :target: https://plone-nutzerhandbuch.readthedocs.io/en/latest/
-.. image:: https://pyup.io/repos/github/veit/plone-nutzerhandbuch/shield.svg
-   :alt: Pyup
-   :target: https://pyup.io/repos/github/veit/plone-nutzerhandbuch/
+   :target: https://github.com/veit/plone-nutzerhandbuch/blob/main/LICENSE
 
 .. first-steps::
 
@@ -28,30 +22,25 @@ Installation
 
    .. code-block:: console
 
-    $ curl -O https://codeload.github.com/veit/plone-nutzerhandbuch/zip/master
+    $ curl -O https://codeload.github.com/veit/plone-nutzerhandbuch/zip/main
     $ unzip main
     Archive:  main
     …
-       creating: plone-nutzerhandbuch-master/
+       creating: plone-nutzerhandbuch-main/
     …
 
 #. Install Pipenv
 
-   Refer to :doc:`Install Pipenv </productive/envs/pipenv/install>`
+   Refer to `uv installation
+   <https://python-basics-tutorial.readthedocs.io/en/latest/libs/install.html#installation>`_
 
 #. Install Python packages:
 
    .. code-block:: console
 
-    $ cd plone-nutzerhandbuch-master
-    $ pipenv install
-    Creating a virtualenv for this project…
-    …
-    Installing dependencies from Pipfile.lock (fbb457)…
-    …
-    $ pipenv run jupyter nbextension enable highlighter/highlighter
-        Enabling notebook extension highlighter/highlighter...
-              - Validating: OK
+    $ cd plone-nutzerhandbuch-main
+    $ uv sync
+    $ uv run python -m sphinx -b html docs/ docs/_build/html/
 
 #. Create HTML documentation:
 
@@ -98,13 +87,13 @@ Installation
    .. code-block:: console
 
     $ cd docs/
-    $ pipenv run make latexpdf
+    $ uv run make latexpdf
     …
     The LaTeX files are in _build/latex.
     Run 'make' in that directory to run these through (pdf)latex
     …
 
-   You can find the PDF at ``docs/_build/latex/jupytertutorial.pdf``.
+   You can find the PDF at ``docs/_build/latex/plone-entwicklerhandbuch.pdf``.
 
 #. Install vnd run ale to check spelling
 
